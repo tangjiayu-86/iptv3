@@ -1,0 +1,34 @@
+name: Auto-sync from upstream
+
+on:
+  schedule:
+    # Every day at 03:00 UTC
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v4
+        with:
+          ref: default
+          fetch-depth: 0
+
+      - name: Sync from upstream
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote add upstream https://github.com/doms9/iptv.git
+          git fetch upstream --prune
+          if git merge upstream/default --ff-only; then
+            echo "Fast-forward merge OK"
+          else
+            echo "FF merge failed, attempting recursive merge..."
+            git merge upstream/default --no-edit --allow-unrelated-histories || true
+          fi
+          git push origin default
