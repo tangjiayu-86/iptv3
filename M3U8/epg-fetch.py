@@ -13,30 +13,44 @@ BASE_M3U8 = Path(__file__).parent / "base.m3u8"
 
 EPG_FILE = Path(__file__).parent / "TV.xml"
 
-EPG_URLS = {
-    "https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
-    "https://i.mjh.nz/Roku/all.xml.gz",
-}
+EPG_URLS = [
+    f"https://epgshare01.online/epgshare01/epg_ripper_{EPG_ID}.xml.gz"
+    for EPG_ID in [
+        "CA2",
+        "DUMMY_CHANNELS",
+        "ES1",
+        # "FANDUEL1",
+        "FR1",
+        "PLEX1",
+        "UK1",
+        "US2",
+        "US_LOCALS1",
+    ]
+] + ["https://i.mjh.nz/Roku/all.xml.gz"]
 
 DUMMIES = {
-    "Basketball.Dummy.us": leagues.live_img,
-    "Golf.Dummy.us": leagues.live_img,
-    "Live.Event.us": leagues.live_img,
-    "MLB.Baseball.Dummy.us": None,
-    "NBA.Basketball.Dummy.us": None,
-    "NFL.Dummy.us": None,
-    "NHL.Hockey.Dummy.us": None,
-    "PPV.EVENTS.Dummy.us": leagues.live_img,
-    "Racing.Dummy.us": leagues.live_img,
-    "Soccer.Dummy.us": leagues.live_img,
-    "Tennis.Dummy.us": leagues.live_img,
-    "WNBA.dummy.us": None,
+    **{
+        tvg: leagues.live_img
+        for tvg in [
+            "Basketball.Dummy.us",
+            "Golf.Dummy.us",
+            "Live.Event.us",
+            "PPV.EVENTS.Dummy.us",
+            "Racing.Dummy.us",
+            "Soccer.Dummy.us",
+            "Tennis.Dummy.us",
+        ]
+    },
+    **{
+        tvg: None
+        for tvg in [
+            "MLB.Baseball.Dummy.us",
+            "NBA.Basketball.Dummy.us",
+            "NFL.Dummy.us",
+            "NHL.Hockey.Dummy.us",
+            "WNBA.dummy.us",
+        ]
+    },
 }
 
 REPLACE_IDs = {
@@ -68,9 +82,7 @@ def get_tvg_ids() -> dict[str, str]:
         if tvg_id:
             tvg[tvg_id[1]] = tvg_logo[1] if tvg_logo else None
 
-    tvg |= DUMMIES
-
-    tvg |= {v["old"]: leagues.live_img for v in REPLACE_IDs.values()}
+    tvg |= DUMMIES | {v["old"]: leagues.live_img for v in REPLACE_IDs.values()}
 
     return tvg
 
@@ -87,7 +99,6 @@ async def fetch_xml(url: str) -> ET.Element | None:
         return ET.fromstring(data)
     except Exception as e:
         log.error(f'Failed to parse XML from "{url}": {e}')
-
         return
 
 

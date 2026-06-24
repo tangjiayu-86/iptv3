@@ -19,7 +19,7 @@ CACHE_FILE = Cache(TAG, exp=12_600)
 BASE_URLS = {
     "MLB": "https://mlbwebcast.com",
     # "NFL": "https://nflwebcast.com",
-    "NHL": "https://slapstreams.com",
+    # "NHL": "https://slapstreams.com",
 }
 
 

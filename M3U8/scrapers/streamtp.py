@@ -1,7 +1,8 @@
+import json
+import re
+from collections import defaultdict
 from functools import partial
 from urllib.parse import urljoin
-
-from selectolax.parser import HTMLParser
 
 from .utils import Cache, Time, get_logger, leagues, network
 
@@ -9,72 +10,63 @@ log = get_logger(__name__)
 
 urls: dict[str, dict[str, str | float]] = {}
 
-TAG = "TVAPP"
+TAG = "STP"
 
-CACHE_FILE = Cache(TAG, exp=86_400)
+CACHE_FILE = Cache(TAG, exp=19_800)
 
-BASE_URL = "https://thetvapp.to"
+BASE_URL = "https://streamtpday1.xyz"
 
 
 async def process_event(url: str, url_num: int) -> str | None:
     if not (html_data := await network.request(url, log=log)):
         log.warning(f"URL {url_num}) Failed to load url.")
-
         return
 
-    soup = HTMLParser(html_data.content)
+    valid_m3u8 = re.compile(r'var\s+playbackURL\s+=\s+"([^"]*)"', re.I)
 
-    if not (channel_name_elem := soup.css_first("#stream_name")):
-        log.warning(f"URL {url_num}) No channel name elem found.")
-
-        return
-
-    if not (channel_name := channel_name_elem.attributes.get("name")):
-        log.warning(f"URL {url_num}) No channel name found.")
-
+    if not (match := valid_m3u8.search(html_data.text)):
+        log.warning(f"URL {url_num}) No M3U8 found")
         return
 
     log.info(f"URL {url_num}) Captured M3U8")
 
-    return f"https://tvpass.org/live/{channel_name.strip()}/sd"
+    m3u8 = match[1].split("ip=")[0]
+
+    return json.loads(f'"{m3u8}"')
 
 
 async def get_events() -> list[dict[str, str]]:
     events = []
 
-    if not (html_data := await network.request(BASE_URL, log=log)):
+    if not (api_req := await network.request(urljoin(BASE_URL, "wc.json"), log=log)):
         return events
 
-    now = Time.clean(Time.now())
+    elif not (api_data := api_req.json()):
+        return events
 
-    soup = HTMLParser(html_data.content)
+    counter = defaultdict(int)
 
-    for row in soup.css(".row"):
-        if not (h3_elem := row.css_first("h3")):
+    for event in api_data.get("events", []):
+        title = event["title"]
+
+        if (sport := event["category"]) == "Other":
+            sport = "Live Event"
+
+        if not (links := event.get("links")):
             continue
 
-        if (sport := h3_elem.text(strip=True)).lower() == "live tv channels":
-            continue
+        stream_urls: dict[str, str] = {
+            link["url"]: link["lang"]["label"] for link in links
+        }
 
-        for a in row.css("a.list-group-item[href]"):
-            x, y = a.text(strip=True).split(":", 1)
-
-            event_name = x.split("@")[0].strip()
-
-            event_dt = Time.from_str(y.split(":", 1)[-1], timezone="UTC")
-
-            if event_dt.date() != now.date():
-                continue
-
-            if not (href := a.attributes.get("href")):
-                continue
+        for url, lang in stream_urls.items():
+            counter[name := f"{title} | {lang.upper()}"] += 1
 
             events.append(
                 {
                     "sport": sport,
-                    "event": event_name,
-                    "link": urljoin(f"{html_data.url}", href),
-                    "timestamp": now.timestamp(),
+                    "event": f"{name} {counter[name]}",
+                    "link": url,
                 }
             )
 
@@ -89,10 +81,12 @@ async def scrape() -> None:
 
         return
 
-    log.info(f'Scraping from "{BASE_URL}"')
+    log.info('Scraping from "https://streamtpnew.com"')
 
     if events := await get_events():
         log.info(f"Processing {len(events)} URL(s)")
+
+        now = Time.clean(Time.now())
 
         for i, ev in enumerate(events, start=1):
             handler = partial(
@@ -108,11 +102,7 @@ async def scrape() -> None:
                 log=log,
             )
 
-            sport, event, ts = (
-                ev["sport"],
-                ev["event"],
-                ev["timestamp"],
-            )
+            sport, event = ev["sport"], ev["event"]
 
             key = f"[{sport}] {event} ({TAG})"
 
@@ -121,8 +111,8 @@ async def scrape() -> None:
             entry = {
                 "url": url,
                 "logo": logo,
-                "base": BASE_URL,
-                "timestamp": ts,
+                "base": link,
+                "timestamp": now.timestamp(),
                 "id": tvg_id or "Live.Event.us",
                 "link": link,
             }

@@ -9,15 +9,18 @@ from scrapers import (
     embedhd,
     fawa,
     fsports,
+    futbolx,
     istreameast,
+    mainportal,
     ovogoal,
+    pelotalibre,
     roxie,
     shark,
+    sportspass,
     streamcenter,
+    streamhub,
     streamsgate,
-    streamtpnew,
-    totalsportek,
-    tvapp,
+    streamtp,
     watchfooty,
     webcast,
     xyzstream,
@@ -60,18 +63,21 @@ async def main() -> None:
                 asyncio.create_task(embedhd.scrape(hdl_brwsr)),
                 asyncio.create_task(fsports.scrape(xtrnl_brwsr)),
                 asyncio.create_task(roxie.scrape(hdl_brwsr)),
+                asyncio.create_task(sportspass.scrape(xtrnl_brwsr)),
             ]
 
             httpx_tasks = [
                 asyncio.create_task(fawa.scrape()),
+                asyncio.create_task(futbolx.scrape()),
                 asyncio.create_task(istreameast.scrape()),
-                # asyncio.create_task(ovogoal.scrape()),
-                asyncio.create_task(shark.scrape()),
+                asyncio.create_task(mainportal.scrape()),
+                asyncio.create_task(ovogoal.scrape()),
+                asyncio.create_task(pelotalibre.scrape()),
+                # asyncio.create_task(shark.scrape()),
                 asyncio.create_task(streamcenter.scrape()),
+                asyncio.create_task(streamhub.scrape()),
                 asyncio.create_task(streamsgate.scrape()),
-                asyncio.create_task(streamtpnew.scrape()),
-                asyncio.create_task(totalsportek.scrape()),
-                # asyncio.create_task(tvapp.scrape()),
+                asyncio.create_task(streamtp.scrape()),
                 asyncio.create_task(webcast.scrape()),
                 asyncio.create_task(xyzstream.scrape()),
             ]
@@ -94,15 +100,18 @@ async def main() -> None:
         | embedhd.urls
         | fawa.urls
         | fsports.urls
+        | futbolx.urls
         | istreameast.urls
+        | mainportal.urls
         | ovogoal.urls
+        | pelotalibre.urls
         | roxie.urls
         | shark.urls
+        | sportspass.urls
         | streamcenter.urls
+        | streamhub.urls
         | streamsgate.urls
-        | streamtpnew.urls
-        | totalsportek.urls
-        | tvapp.urls
+        | streamtp.urls
         | watchfooty.urls
         | webcast.urls
         | xyzstream.urls

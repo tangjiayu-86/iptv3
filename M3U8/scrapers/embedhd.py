@@ -59,7 +59,7 @@ async def process_event(
 
         try:
             await asyncio.wait_for(wait_task, timeout=6)
-        except asyncio.TimeoutError:
+        except TimeoutError:
             log.warning(f"URL {url_num}) Timed out waiting for M3U8.")
             return
 
@@ -109,7 +109,7 @@ async def get_events(cached_keys: list[str]) -> list[dict[str, str]]:
             if (event_league := event["league"]) == "channel tv":
                 continue
 
-            event_dt = Time.from_str(event["when_et"], timezone="ET")
+            event_dt = Time.from_ts(event["ts_et"])
 
             if not start_dt <= event_dt <= end_dt:
                 continue

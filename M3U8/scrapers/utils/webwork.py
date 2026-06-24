@@ -7,7 +7,7 @@ from contextlib import asynccontextmanager
 from functools import cache, partial
 from pathlib import Path
 from typing import TypeVar
-from urllib.parse import urlparse
+from urllib.parse import urlsplit, urlunsplit
 
 import httpx
 from playwright.async_api import (
@@ -81,6 +81,15 @@ class Network:
             return mirror
 
     @staticmethod
+    def ensure_https(url: str) -> str:
+        splits = urlsplit(url)
+
+        if not splits.scheme:
+            splits = splits._replace(scheme="https")
+
+        return urlunsplit(splits)
+
+    @staticmethod
     async def safe_process(
         fn: Callable[[], Awaitable[T]],
         url_num: int,
@@ -97,7 +106,7 @@ class Network:
             try:
                 return await asyncio.wait_for(task, timeout=timeout)
 
-            except asyncio.TimeoutError:
+            except TimeoutError:
                 log.warning(
                     f"URL {url_num}) Timed out after {timeout}s, skipping event"
                 )
@@ -134,7 +143,7 @@ class Network:
 
     @staticmethod
     def to_block(request: Request) -> bool:
-        hostname = (urlparse(request.url).hostname or "").lower()
+        hostname = (urlsplit(request.url).hostname or "").lower()
 
         return any(
             hostname == domain or hostname.endswith(f".{domain}")
@@ -222,7 +231,7 @@ class Network:
         escaped = [
             re.escape(i)
             for i in {
-                "amazonaws",
+                # "amazonaws",
                 "knitcdn",
                 "jwpltx",
             }
@@ -274,7 +283,7 @@ class Network:
 
             try:
                 await asyncio.wait_for(wait_task, timeout=timeout)
-            except asyncio.TimeoutError:
+            except TimeoutError:
                 log.warning(f"URL {url_num}) Timed out waiting for M3U8.")
                 return
 

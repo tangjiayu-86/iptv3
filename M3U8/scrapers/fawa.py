@@ -29,7 +29,7 @@ async def process_event(url: str, url_num: int) -> str | None:
     )
 
     if not (match := valid_m3u8.search(html_data.text)):
-        log.info(f"URL {url_num}) No M3U8 found")
+        log.warning(f"URL {url_num}) No M3U8 found")
 
         return
 
@@ -38,7 +38,7 @@ async def process_event(url: str, url_num: int) -> str | None:
     return match[2]
 
 
-async def get_events(cached_hrefs: set[str]) -> list[dict[str, str]]:
+async def get_events(cached_links: set[str]) -> list[dict[str, str]]:
     events = []
 
     if not (html_data := await network.request(BASE_URL, log=log)):
@@ -54,15 +54,13 @@ async def get_events(cached_hrefs: set[str]) -> list[dict[str, str]]:
         subtext = item.css_first(".user-item__playing")
         link = item.css_first("a[href]")
 
+        if not (text and subtext):
+            continue
+
         if not (href := link.attributes.get("href")):
             continue
 
-        href = quote(href)
-
-        if cached_hrefs & {href}:
-            continue
-
-        if not (text and subtext):
+        elif (link := urljoin(f"{html_data.url}", quote(href))) in cached_links:
             continue
 
         event_name, details = text.text(strip=True), subtext.text(strip=True)
@@ -76,8 +74,7 @@ async def get_events(cached_hrefs: set[str]) -> list[dict[str, str]]:
             {
                 "sport": sport,
                 "event": clean_event.sub("", event_name),
-                "link": urljoin(f"{html_data.url}", href),
-                "href": href,
+                "link": link,
             }
         )
 
@@ -87,7 +84,7 @@ async def get_events(cached_hrefs: set[str]) -> list[dict[str, str]]:
 async def scrape() -> None:
     cached_urls = CACHE_FILE.load()
 
-    cached_hrefs = {entry["href"] for entry in cached_urls.values()}
+    cached_links = {entry["link"] for entry in cached_urls.values()}
 
     valid_urls = {k: v for k, v in cached_urls.items() if v["url"]}
 
@@ -99,7 +96,7 @@ async def scrape() -> None:
 
     log.info(f'Scraping from "{BASE_URL}"')
 
-    if events := await get_events(cached_hrefs):
+    if events := await get_events(cached_links):
         log.info(f"Processing {len(events)} new URL(s)")
 
         now = Time.clean(Time.now())
@@ -130,7 +127,6 @@ async def scrape() -> None:
                 "base": BASE_URL,
                 "timestamp": now.timestamp(),
                 "id": tvg_id or "Live.Event.us",
-                "href": ev["href"],
                 "link": link,
             }
 

@@ -10,6 +10,7 @@ class Time(datetime):
     ZONES = {
         "CET": pytz.timezone("Europe/Berlin"),
         "ET": pytz.timezone("America/New_York"),
+        "MSK": pytz.timezone("Europe/Moscow"),
         "PST": pytz.timezone("America/Los_Angeles"),
         "UTC": timezone.utc,
     }
@@ -149,7 +150,7 @@ class Leagues:
         pattern = re.compile(r"\s+(?:-|vs\.?|at|@)\s+", re.I)
 
         if pattern.search(event):
-            t1, t2 = pattern.split(event)
+            t1, t2 = pattern.split(event)[:2]
 
             return any(t in self.teams(league) for t in (t1.strip(), t2.strip()))
 

@@ -1,7 +1,7 @@
 import re
+from collections import defaultdict
 from functools import partial
-
-from selectolax.parser import HTMLParser
+from urllib.parse import urljoin
 
 from .utils import Cache, Time, get_logger, leagues, network
 
@@ -9,80 +9,70 @@ log = get_logger(__name__)
 
 urls: dict[str, dict[str, str | float]] = {}
 
-TAG = "SHARK"
+TAG = "PLIBRE"
 
 CACHE_FILE = Cache(TAG, exp=19_800)
 
-BASE_URL = "https://sharkstreams.net"
+BASE_URL = "https://la18hd.com"
 
 
 async def process_event(url: str, url_num: int) -> str | None:
-    if not (r := await network.request(url, log=log)):
+    if not (html_data := await network.request(url, log=log)):
         log.warning(f"URL {url_num}) Failed to load url.")
         return
 
-    data: dict[str, list[str]] = r.json()
+    valid_m3u8 = re.compile(r'var\s+playbackURL\s+=\s+"([^"]*)"', re.I)
 
-    if not (urls := data.get("urls")):
+    if not (match := valid_m3u8.search(html_data.text)):
         log.warning(f"URL {url_num}) No M3U8 found")
         return
 
     log.info(f"URL {url_num}) Captured M3U8")
 
-    return urls[0]
+    return match[1]
 
 
-async def get_events() -> dict[str, dict[str, str | float]]:
+async def get_events() -> list[dict[str, str]]:
     events = []
 
-    if not (html_data := await network.request(BASE_URL, log=log)):
+    if not (
+        api_req := await network.request(
+            urljoin(BASE_URL, "eventos/json/agenda123.json"),
+            log=log,
+        )
+    ):
         return events
 
-    now = Time.clean(Time.now())
+    elif not (api_data := api_req.json()):
+        return events
 
-    pattern = re.compile(r"openEmbed\('([^']+)'\)", re.I)
+    counter = defaultdict(int)
 
-    soup = HTMLParser(html_data.content)
-
-    for row in soup.css(".row"):
-
+    for event in api_data:
         if not all(
             values := [
-                row.css_first(x)
+                event.get(x)
                 for x in (
-                    ".ch-date",
-                    ".ch-category",
-                    ".ch-name",
+                    "title",
+                    "language",
+                    "link",
                 )
             ]
         ):
             continue
 
-        date_node, sport_node, name_node = values
+        title, lang, link = values
 
-        event_dt = Time.from_str(date_node.text(strip=True), timezone="EST")
+        if (sport := event.get("category")) and sport == "Other":
+            sport = "Live Event"
 
-        if event_dt.date() != now.date():
-            continue
-
-        sport = sport_node.text(strip=True)
-
-        event_name = name_node.text(strip=True)
-
-        embed_btn = row.css_first("a.hd-link.secondary")
-
-        if not embed_btn or not (onclick := embed_btn.attributes.get("onclick")):
-            continue
-
-        elif not (match := pattern.search(onclick)):
-            continue
+        counter[name := f"{title} | {lang.upper()}"] += 1
 
         events.append(
             {
                 "sport": sport,
-                "event": event_name,
-                "link": match[1].replace("player.php", "get-stream.php"),
-                "timestamp": now.timestamp(),
+                "event": f"{name} {counter[name]}",
+                "link": link,
             }
         )
 
@@ -97,10 +87,12 @@ async def scrape() -> None:
 
         return
 
-    log.info(f'Scraping from "{BASE_URL}"')
+    log.info('Scraping from "https://la18hd.com"')
 
     if events := await get_events():
         log.info(f"Processing {len(events)} URL(s)")
+
+        now = Time.clean(Time.now())
 
         for i, ev in enumerate(events, start=1):
             handler = partial(
@@ -116,21 +108,17 @@ async def scrape() -> None:
                 log=log,
             )
 
-            sport, event, ts = (
-                ev["sport"],
-                ev["event"],
-                ev["timestamp"],
-            )
-
-            tvg_id, logo = leagues.get_tvg_info(sport, event)
+            sport, event = ev["sport"], ev["event"]
 
             key = f"[{sport}] {event} ({TAG})"
+
+            tvg_id, logo = leagues.get_tvg_info(sport, event)
 
             entry = {
                 "url": url,
                 "logo": logo,
-                "base": BASE_URL,
-                "timestamp": ts,
+                "base": link,
+                "timestamp": now.timestamp(),
                 "id": tvg_id or "Live.Event.us",
                 "link": link,
             }

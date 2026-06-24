@@ -12,9 +12,11 @@ urls: dict[str, dict[str, str | float]] = {}
 
 TAG = "OVO"
 
-CACHE_FILE = Cache(TAG, exp=28_800)
+CACHE_FILE = Cache(TAG, exp=10_800)
 
-BASE_URL = "https://ovogoalz.top"
+HTML_FILE = Cache(f"{TAG}-html", exp=28_800)
+
+BASE_URL = "https://ovogoalz.st"
 
 
 async def process_event(url: str, url_num: int) -> tuple[str | None, str | None]:
@@ -53,8 +55,8 @@ async def process_event(url: str, url_num: int) -> tuple[str | None, str | None]
     return match[3], iframe_src
 
 
-async def get_events() -> list[dict[str, str]]:
-    events = []
+async def refresh_html_cache(now: Time) -> dict[str, dict[str, str | float]]:
+    events = {}
 
     if not (html_data := await network.request(BASE_URL, log=log)):
         return events
@@ -63,44 +65,89 @@ async def get_events() -> list[dict[str, str]]:
 
     sport = "Live Event"
 
-    for card in soup.css(".main-content .stream-row"):
-        if (not (watch_btn_elem := card.css_first(".watch-btn"))) or (
-            not (onclick := watch_btn_elem.attributes.get("onclick"))
+    for card in soup.css("a.match-card"):
+        if not (href := card.attributes.get("href")) or len(href) == 1:
+            continue
+
+        if not (card_time_elem := card.css_first(".match-time")):
+            continue
+
+        if not (
+            home_elem := card.css_first(
+                ".match-team.home > .team-info > .team-full-name"
+            )
         ):
-            continue
+            home_elem = card.css_first(".match-team.home > .team-full-name")
 
-        if not (event_name_elem := card.css_first(".stream-info")):
-            continue
+            event_name = home_elem.text(strip=True)
 
-        href = onclick.split(".href=")[-1].replace("'", "")
+        else:
+            away_elem = card.css_first(
+                ".match-team.away > .team-info > .team-full-name"
+            )
 
-        event_name = event_name_elem.text(strip=True)
+            home_team, away_team = home_elem.text(strip=True), away_elem.text(
+                strip=True
+            )
 
-        events.append(
-            {
-                "sport": sport,
-                "event": event_name,
-                "link": urljoin(f"{html_data.url}", href),
-            }
+            event_name = f"{away_team} vs {home_team}"
+
+        event_time = card_time_elem.text(strip=True)
+
+        event_dt = Time.from_str(
+            f"{' '.join(event_time.split()[:-1])} {now.year}",
+            "%b %d — %H:%M %Y",
+            timezone="CET",
         )
+
+        key = f"[{sport}] {event_name} ({TAG})"
+
+        events[key] = {
+            "sport": sport,
+            "event": event_name,
+            "link": urljoin(f"{html_data.url}", href),
+            "event_ts": event_dt.timestamp(),
+            "timestamp": now.timestamp(),
+        }
 
     return events
 
 
+async def get_events(cached_keys: list[str]) -> list[dict[str, str | float]]:
+    now = Time.clean(Time.now())
+
+    if not (events := HTML_FILE.load()):
+        log.info("Refreshing HTML cache")
+
+        events = await refresh_html_cache(now)
+
+        HTML_FILE.write(events)
+
+    start_ts = now.delta(minutes=-30).timestamp()
+    end_ts = now.delta(minutes=30).timestamp()
+
+    return [
+        v
+        for k, v in events.items()
+        if k not in cached_keys and start_ts <= v["event_ts"] <= end_ts
+    ]
+
+
 async def scrape() -> None:
-    if cached_urls := CACHE_FILE.load():
-        urls.update({k: v for k, v in cached_urls.items() if v["url"]})
+    cached_urls = CACHE_FILE.load()
 
-        log.info(f"Loaded {len(urls)} event(s) from cache")
+    valid_urls = {k: v for k, v in cached_urls.items() if v["url"]}
 
-        return
+    valid_count = cached_count = len(valid_urls)
+
+    urls.update(valid_urls)
+
+    log.info(f"Loaded {cached_count} event(s) from cache")
 
     log.info(f'Scraping from "{BASE_URL}"')
 
-    if events := await get_events():
-        log.info(f"Processing {len(events)} URL(s)")
-
-        now = Time.clean(Time.now())
+    if events := await get_events(cached_urls.keys()):
+        log.info(f"Processing {len(events)} new URL(s)")
 
         for i, ev in enumerate(events, start=1):
             handler = partial(
@@ -116,7 +163,11 @@ async def scrape() -> None:
                 log=log,
             )
 
-            sport, event = ev["sport"], ev["event"]
+            sport, event, ts = (
+                ev["sport"],
+                ev["event"],
+                ev["event_ts"],
+            )
 
             key = f"[{sport}] {event} ({TAG})"
 
@@ -126,7 +177,7 @@ async def scrape() -> None:
                 "url": url,
                 "logo": logo,
                 "base": iframe,
-                "timestamp": now.timestamp(),
+                "timestamp": ts,
                 "id": tvg_id or "Live.Event.us",
                 "link": link,
             }
@@ -134,11 +185,13 @@ async def scrape() -> None:
             cached_urls[key] = entry
 
             if url:
+                valid_count += 1
+
                 urls[key] = entry
 
-        log.info(f"Collected and cached {len(urls)} event(s)")
+        log.info(f"Collected and cached {valid_count - cached_count} new event(s)")
 
     else:
-        log.info("No events found")
+        log.info("No new events found")
 
     CACHE_FILE.write(cached_urls)

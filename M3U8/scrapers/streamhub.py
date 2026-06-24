@@ -1,5 +1,5 @@
-import re
 from functools import partial
+from urllib.parse import parse_qsl, urljoin, urlsplit
 
 from selectolax.parser import HTMLParser
 
@@ -9,11 +9,11 @@ log = get_logger(__name__)
 
 urls: dict[str, dict[str, str | float]] = {}
 
-TAG = "iSTRMEAST"
+TAG = "STRMHUB"
 
 CACHE_FILE = Cache(TAG, exp=10_800)
 
-BASE_URL = "https://istreameast.app"
+BASE_URL = "https://streamhub.pro"
 
 
 async def process_event(url: str, url_num: int) -> tuple[str | None, str | None]:
@@ -23,29 +23,35 @@ async def process_event(url: str, url_num: int) -> tuple[str | None, str | None]
         log.warning(f"URL {url_num}) Failed to load url.")
         return nones
 
-    soup = HTMLParser(event_data.content)
+    soup_1 = HTMLParser(event_data.content)
 
-    if not (iframe := soup.css_first("iframe#wp_player")):
-        log.warning(f"URL {url_num}) No iframe element found.")
+    ifr_1 = soup_1.css_first("iframe#playerIframe")
+
+    if not ifr_1 or not (ifr_1_src := ifr_1.attributes.get("src")):
+        log.warning(f"URL {url_num}) No iframe element/src found. (IFR1)")
         return nones
 
-    if not (iframe_src := iframe.attributes.get("src")):
-        log.warning(f"URL {url_num}) No iframe source found.")
+    elif not (ifr_1_src_data := await network.request(ifr_1_src, log=log)):
+        log.warning(f"URL {url_num}) Failed to load iframe source. (IFR1)")
         return nones
 
-    if not (iframe_src_data := await network.request(iframe_src, log=log)):
-        log.warning(f"URL {url_num}) Failed to load iframe source.")
+    soup_2 = HTMLParser(ifr_1_src_data.content)
+
+    ifr_2 = soup_2.css_first("iframe")
+
+    if not ifr_2 or not (ifr_2_src := ifr_2.attributes.get("src")):
+        log.warning(f"URL {url_num}) No iframe element/src found. (IFR2)")
         return nones
 
-    pattern = re.compile(r'const\s+source\s+=\s+"([^"]*)"', re.I)
+    params = dict(parse_qsl(urlsplit(ifr_2_src).query))
 
-    if not (match := pattern.search(iframe_src_data.text)):
-        log.warning(f"URL {url_num}) No Clappr source found.")
+    if not (stream_key := params.get("stream")):
+        log.warning(f"URL {url_num}) No stream key found.")
         return nones
 
     log.info(f"URL {url_num}) Captured M3U8")
 
-    return match[1], iframe_src
+    return f"https://obstreamx.click/live/{stream_key}.m3u8", ifr_2_src
 
 
 async def get_events(cached_keys: list[str]) -> list[dict[str, str]]:
@@ -56,44 +62,31 @@ async def get_events(cached_keys: list[str]) -> list[dict[str, str]]:
 
     soup = HTMLParser(html_data.content)
 
-    for link in soup.css("li.f1-podium--item > a.f1-podium--link"):
-        li_item = link.parent
-
-        if not all(
-            values := [
-                li_item.css_first(x)
-                for x in (
-                    ".f1-podium--rank",
-                    ".SaatZamanBilgisi",
-                    ".f1-podium--driver",
-                )
-            ]
-        ):
+    for card in soup.css(".live-card"):
+        if not (href := card.attributes.get("href")):
             continue
 
-        rank_elem, time_elem, driver_elem = values
-
-        if time_elem.text(strip=True).lower() != "live":
+        elif not (team_elems := card.css(".live-team-name")):
             continue
 
-        sport = rank_elem.text(strip=True)
+        sport = "".join(
+            x for x in card.css_first(".live-league").text(strip=True) if x.isascii()
+        ).lstrip()
 
-        event_name = driver_elem.text(strip=True)
-
-        if inner_span := driver_elem.css_first("span.d-md-inline"):
-            event_name = inner_span.text(strip=True)
+        event_name = (
+            "".join(x.text(strip=True) for x in team_elems)
+            if len(team_elems) == 1
+            else " vs ".join(x.text(strip=True) for x in team_elems)
+        )
 
         if f"[{sport}] {event_name} ({TAG})" in cached_keys:
-            continue
-
-        if not (href := link.attributes.get("href")):
             continue
 
         events.append(
             {
                 "sport": sport,
                 "event": event_name,
-                "link": href,
+                "link": urljoin(f"{html_data.url}", href),
             }
         )
 

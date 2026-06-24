@@ -8,9 +8,9 @@ TAG = "XYZSTRM"
 
 CACHE_FILE = Cache(TAG, exp=28_800)
 
-BASE_URL = "https://xyzstreams.shop"
+BASE_URL = "https://xyzstreams.shop/"
 
-API_URL = "https://blog.xyzstreams.shop:2053/api/scoreboard"
+API_URL = "https://api.streamxyz.shop:2053/api/scoreboard"
 
 
 async def get_events() -> dict[str, dict[str, str | float]]:

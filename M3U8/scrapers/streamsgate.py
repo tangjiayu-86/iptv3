@@ -1,4 +1,5 @@
 import asyncio
+import json
 import re
 from functools import partial
 from itertools import chain
@@ -23,9 +24,9 @@ SPORT_URLS = [
     for sport in [
         # "cfb",
         "mlb",
-        "nba",
+        # "nba",
         # "nfl",
-        "nhl",
+        # "nhl",
         "soccer",
         "ufc",
     ]
@@ -51,15 +52,15 @@ async def process_event(url: str, url_num: int) -> tuple[str | None, str | None]
         log.warning(f"URL {url_num}) Failed to load url.")
         return nones
 
-    soup_1 = HTMLParser(event_data.content)
+    soup = HTMLParser(event_data.content)
 
-    ifr = soup_1.css_first("iframe")
+    ifr = soup.css_first("iframe")
 
     if not ifr or not (src := ifr.attributes.get("src")):
         log.warning(f"URL {url_num}) No iframe element found.")
         return nones
 
-    ifr_src = f"https:{src}" if src.startswith("//") else src
+    ifr_src = network.ensure_https(src)
 
     if not (
         ifr_src_data := await network.request(
@@ -68,10 +69,13 @@ async def process_event(url: str, url_num: int) -> tuple[str | None, str | None]
             log=log,
         )
     ):
-        log.warning(f"URL {url_num}) Failed to load iframe source. (IFR1)")
+        log.warning(f"URL {url_num}) Failed to load iframe source.")
         return nones
 
-    valid_m3u8 = re.compile(r"(file|source):\s+(\'|\")([^\"]*)(\'|\")", re.I)
+    valid_m3u8 = re.compile(
+        r"(file|source|currentStreamUrl)\s*(:|=)\s+(\'|\")([^\"]*)(\'|\")",
+        re.I,
+    )
 
     if not (match := valid_m3u8.search(ifr_src_data.text)):
         log.warning(f"URL {url_num}) No source found.")
@@ -79,7 +83,7 @@ async def process_event(url: str, url_num: int) -> tuple[str | None, str | None]
 
     log.info(f"URL {url_num}) Captured M3U8")
 
-    return match[3], ifr_src
+    return json.loads(f'"{match[4]}"'), ifr_src
 
 
 async def get_events() -> list[dict[str, str]]:
@@ -95,27 +99,44 @@ async def get_events() -> list[dict[str, str]]:
         return events
 
     for stream_group in api_data:
-        date = stream_group.get("time")
-
-        sport = stream_group.get("league")
-
-        t1, t2 = stream_group.get("away"), stream_group.get("home")
-
-        if not (date and sport):
+        if not all(
+            values := [
+                stream_group.get(x)
+                for x in (
+                    "time",
+                    "league",
+                    "away",
+                    "home",
+                )
+            ]
+        ):
             continue
+
+        date, sport, t1, t2 = values
 
         event_dt = Time.from_str(date, timezone="UTC")
 
         if event_dt.date() != now.date():
             continue
 
-        if not (streams := stream_group.get("streams")) or not (
-            url := streams[0].get("url")
+        if not (streams := stream_group.get("streams")):
+            continue
+
+        elif not (
+            valid_streams := sorted(
+                [
+                    *filter(
+                        lambda x: (lth := len(x.get("lang"))) == 0 or lth > 2,
+                        streams,
+                    )
+                ],
+                key=lambda x: len(x.get("lang")),
+                reverse=True,
+            )
         ):
             continue
 
-        if not (t1 and t2):
-            continue
+        url = valid_streams[0]["url"]
 
         event = get_event(t1, t2)
 

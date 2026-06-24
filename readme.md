@@ -1,7 +1,10 @@
-## Base Log @ 2026-06-06 21:36 UTC
+## Base Log @ 2026-06-24 11:23 UTC
 
-### ✅ Working Streams: 144<br>❌ Dead Streams: 0
+### ✅ Working Streams: 149<br>❌ Dead Streams: 1
 
+| Channel | Error (Code) | Link |
+| ------- | ------------ | ---- |
+| Sportsman Channel | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/97483.ts` |
 ---
 #### Base Channels URL
 ```
