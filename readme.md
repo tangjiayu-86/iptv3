@@ -1,10 +1,13 @@
-## Base Log @ 2026-06-25 16:43 UTC
+## Base Log @ 2026-06-25 22:02 UTC
 
-### ✅ Working Streams: 148<br>❌ Dead Streams: 2
+### ✅ Working Streams: 145<br>❌ Dead Streams: 5
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| Food Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8` |
+| Cartoon Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8` |
+| Showtime Extreme | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts` |
+| Sky Sports News | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts` |
+| Sky Sports Premier League | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts` |
 | Sportsman Channel | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/97483.ts` |
 ---
 #### Base Channels URL
