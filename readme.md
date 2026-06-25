@@ -1,10 +1,11 @@
-## Base Log @ 2026-06-24 21:55 UTC
+## Base Log @ 2026-06-25 11:15 UTC
 
-### ✅ Working Streams: 148<br>❌ Dead Streams: 2
+### ✅ Working Streams: 147<br>❌ Dead Streams: 3
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| STV | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2168.ts` |
+| ABC | HTTP Error (404) | `http://stream.cammonitorplus.net/1809/index.m3u8` |
+| Cartoon Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8` |
 | Sportsman Channel | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/97483.ts` |
 ---
 #### Base Channels URL
