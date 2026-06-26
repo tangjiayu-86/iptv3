@@ -1,9 +1,10 @@
-## Base Log @ 2026-06-26 16:34 UTC
+## Base Log @ 2026-06-26 21:49 UTC
 
-### ✅ Working Streams: 149<br>❌ Dead Streams: 1
+### ✅ Working Streams: 148<br>❌ Dead Streams: 2
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| DAZN | HTTP Error (404) | `https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8` |
 | Sportsman Channel | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/97483.ts` |
 ---
 #### Base Channels URL
