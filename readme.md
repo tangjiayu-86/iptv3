@@ -1,12 +1,10 @@
-## Base Log @ 2026-06-26 11:24 UTC
+## Base Log @ 2026-06-26 16:34 UTC
 
-### ✅ Working Streams: 147<br>❌ Dead Streams: 3
+### ✅ Working Streams: 149<br>❌ Dead Streams: 1
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| Sky Sports News | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts` |
 | Sportsman Channel | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/97483.ts` |
-| TV One | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21897.ts` |
 ---
 #### Base Channels URL
 ```
