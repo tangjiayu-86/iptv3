@@ -1,11 +1,10 @@
-## Base Log @ 2026-06-29 12:48 UTC
+## Base Log @ 2026-06-29 17:19 UTC
 
-### ✅ Working Streams: 146<br>❌ Dead Streams: 4
+### ✅ Working Streams: 147<br>❌ Dead Streams: 3
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | DAZN | HTTP Error (404) | `https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8` |
-| ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
 | MSNBC | HTTP Error (404) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
 | Sportsman Channel | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/97483.ts` |
 ---
