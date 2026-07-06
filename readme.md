@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-06 12:24 UTC
+## Base Log @ 2026-07-06 17:21 UTC
 
-### ✅ Working Streams: 142<br>❌ Dead Streams: 8
+### ✅ Working Streams: 143<br>❌ Dead Streams: 7
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -8,10 +8,9 @@
 | AMC | HTTP Error (404) | `http://23.239.31.26:8989/amc/index.m3u8` |
 | AXS TV | HTTP Error (404) | `http://23.239.31.26:8989/axstv/index.m3u8` |
 | DAZN | HTTP Error (404) | `https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8` |
-| ESPN2 | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts` |
 | MSNBC | HTTP Error (404) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
+| STV | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2168.ts` |
 | Sportsman Channel | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/97483.ts` |
-| TV One | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21897.ts` |
 ---
 #### Base Channels URL
 ```
