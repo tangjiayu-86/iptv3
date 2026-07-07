@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-07 11:24 UTC
+## Base Log @ 2026-07-07 16:45 UTC
 
-### ✅ Working Streams: 139<br>❌ Dead Streams: 11
+### ✅ Working Streams: 138<br>❌ Dead Streams: 12
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -8,6 +8,7 @@
 | AMC | HTTP Error (404) | `http://23.239.31.26:8989/amc/index.m3u8` |
 | AXS TV | HTTP Error (404) | `http://23.239.31.26:8989/axstv/index.m3u8` |
 | DAZN | HTTP Error (404) | `https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8` |
+| Fox Business | HTTP Error (404) | `http://41.205.93.154/FOXBUSINESS/index.m3u8` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
 | HBO Comedy | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8` |
 | HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
