@@ -436652,129 +436652,6 @@
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" />
     <lcn>225</lcn>
   </channel>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708020000 +0000" stop="20260708023000 +0000">
-    <title>Tour de France: Beyond the Podium</title>
-    <sub-title>Tour de France: Beyond the Podium</sub-title>
-    <desc>Daily breakdowns of each Tour de France stage with experts Brent Bookwalter and Tejay Van Garderen.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4aa0bd19d2de5ba22e69f0be8b002243/images/gracenote/assets/p30380505_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S2026E05</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708023000 +0000" stop="20260708030000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S14E123</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708030000 +0000" stop="20260708033000 +0000">
-    <title>WNBA on NBC Highlights Factory</title>
-    <desc>The WNBA's biggest stars and top plays come to life.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e2b4d1e7e539e94b6c845c7ee5c532e7/images/gracenote/assets/p32990041_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S2026E07</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708033000 +0000" stop="20260708040000 +0000">
-    <title>WNBA on NBC Highlights Factory</title>
-    <desc>The WNBA's biggest stars and top plays come to life.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e2b4d1e7e539e94b6c845c7ee5c532e7/images/gracenote/assets/p32990041_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S2026E08</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708040000 +0000" stop="20260708070000 +0000">
-    <title>The Dan Le Batard Show</title>
-    <desc>Dan Le Batard and the gang share their unique perspectives on sports, pop-culture and more.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/939412f17b4056ff53450f68ec4a09c2/images/gracenote/assets/p33404900_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S2026E12</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708070000 +0000" stop="20260708073000 +0000">
-    <title>Tour de France: Beyond the Podium</title>
-    <sub-title>Tour de France: Beyond the Podium</sub-title>
-    <desc>Daily breakdowns of each Tour de France stage with experts Brent Bookwalter and Tejay Van Garderen.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4aa0bd19d2de5ba22e69f0be8b002243/images/gracenote/assets/p30380505_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S2026E05</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708073000 +0000" stop="20260708080000 +0000">
-    <title>Tour de France Daily Highlights</title>
-    <sub-title>Tour de France Daily Highlights</sub-title>
-    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S2026E01</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708080000 +0000" stop="20260708083000 +0000">
-    <title>Tour de France Daily Highlights</title>
-    <sub-title>Tour de France Daily Highlights</sub-title>
-    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S2026E02</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708083000 +0000" stop="20260708090000 +0000">
-    <title>Tour de France Daily Highlights</title>
-    <sub-title>Tour de France Daily Highlights</sub-title>
-    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S2026E03</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708090000 +0000" stop="20260708093000 +0000">
-    <title>Tour de France Daily Highlights</title>
-    <sub-title>Tour de France Daily Highlights</sub-title>
-    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S2026E04</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708093000 +0000" stop="20260708100000 +0000">
-    <title>Tour de France: Beyond the Podium</title>
-    <sub-title>Tour de France: Beyond the Podium</sub-title>
-    <desc>Daily breakdowns of each Tour de France stage with experts Brent Bookwalter and Tejay Van Garderen.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4aa0bd19d2de5ba22e69f0be8b002243/images/gracenote/assets/p30380505_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S2026E05</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708100000 +0000" stop="20260708103000 +0000">
-    <title>Tour de France Daily Highlights</title>
-    <sub-title>Tour de France Daily Highlights</sub-title>
-    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S2026E04</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708103000 +0000" stop="20260708110000 +0000">
-    <title>Tour de France: Beyond the Podium</title>
-    <sub-title>Tour de France: Beyond the Podium</sub-title>
-    <desc>Daily breakdowns of each Tour de France stage with experts Brent Bookwalter and Tejay Van Garderen.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4aa0bd19d2de5ba22e69f0be8b002243/images/gracenote/assets/p30380505_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S2026E05</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708110000 +0000" stop="20260708113000 +0000">
-    <title>Tour de France Daily Highlights</title>
-    <sub-title>Tour de France Daily Highlights</sub-title>
-    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S2026E03</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708113000 +0000" stop="20260708120000 +0000">
-    <title>Tour de France Daily Highlights</title>
-    <sub-title>Tour de France Daily Highlights</sub-title>
-    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S2026E04</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708120000 +0000" stop="20260708123000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S14E124</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708123000 +0000" stop="20260708130000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S14E123</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708130000 +0000" stop="20260708160000 +0000">
-    <title>The Dan Patrick Show</title>
-    <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/images/gracenote/assets/p18691242_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S07E116</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260708160000 +0000" stop="20260708190000 +0000">
     <title>The Dan Le Batard Show</title>
     <desc>Dan Le Batard and the gang share their unique perspectives on sports, pop-culture and more.</desc>
@@ -436868,14 +436745,7 @@
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260709010000 +0000" stop="20260709040000 +0000">
     <title>The Dan Patrick Show</title>
     <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/images/gracenote/assets/p18691242_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S07E116</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260709010000 +0000" stop="20260709040000 +0000">
-    <title>The Dan Patrick Show</title>
-    <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/images/gracenote/assets/p18691242_b_h8_aa.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fafbb76977f00796dbc8db717eb497b3/rokuFeed/assets/1283df25756d569585b3162442c9af76.jpg" />
     <episode-num system="onscreen">S07E116</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
@@ -436888,7 +436758,7 @@
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260709070000 +0000" stop="20260709100000 +0000">
     <title>The Dan Patrick Show</title>
     <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/images/gracenote/assets/p18691242_b_h8_aa.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fafbb76977f00796dbc8db717eb497b3/rokuFeed/assets/1283df25756d569585b3162442c9af76.jpg" />
     <episode-num system="onscreen">S07E116</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
@@ -436937,9 +436807,15 @@
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260709130000 +0000" stop="20260709160000 +0000">
     <title>The Dan Patrick Show</title>
     <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/images/gracenote/assets/p18691242_b_h8_aa.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/099d10b69850b5f76b2e723f9ecbf489/rokuFeed/assets/6d54d1f8815b56ebb078b7d3816f88a1.jpg" />
     <episode-num system="onscreen">S07E117</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260709160000 +0000" stop="20260709190000 +0000">
+    <title>The Dan Le Batard Show</title>
+    <desc>Dan Le Batard and the gang share their unique perspectives on sports, pop-culture and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/939412f17b4056ff53450f68ec4a09c2/images/gracenote/assets/p33404900_b_h8_aa.jpg" />
+    <episode-num system="onscreen">S2026E14</episode-num>
   </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260709160000 +0000" stop="20260709190000 +0000">
     <title>The Dan Le Batard Show</title>
@@ -436950,7 +436826,7 @@
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260709190000 +0000" stop="20260709220000 +0000">
     <title>The Dan Patrick Show</title>
     <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/images/gracenote/assets/p18691242_b_h8_aa.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/099d10b69850b5f76b2e723f9ecbf489/rokuFeed/assets/6d54d1f8815b56ebb078b7d3816f88a1.jpg" />
     <episode-num system="onscreen">S07E117</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
@@ -436999,14 +436875,7 @@
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260710010000 +0000" stop="20260710040000 +0000">
     <title>The Dan Patrick Show</title>
     <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/images/gracenote/assets/p18691242_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S07E117</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260710010000 +0000" stop="20260710040000 +0000">
-    <title>The Dan Patrick Show</title>
-    <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/images/gracenote/assets/p18691242_b_h8_aa.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/099d10b69850b5f76b2e723f9ecbf489/rokuFeed/assets/6d54d1f8815b56ebb078b7d3816f88a1.jpg" />
     <episode-num system="onscreen">S07E117</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
@@ -437019,7 +436888,7 @@
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260710070000 +0000" stop="20260710100000 +0000">
     <title>The Dan Patrick Show</title>
     <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/images/gracenote/assets/p18691242_b_h8_aa.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/099d10b69850b5f76b2e723f9ecbf489/rokuFeed/assets/6d54d1f8815b56ebb078b7d3816f88a1.jpg" />
     <episode-num system="onscreen">S07E117</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
@@ -437068,9 +436937,15 @@
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260710130000 +0000" stop="20260710160000 +0000">
     <title>The Dan Patrick Show</title>
     <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/images/gracenote/assets/p18691242_b_h8_aa.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/eea74a46eda59335a01ec020c66cd8ae/rokuFeed/assets/e4ff673534ea51179eb5bd4bfafe9bed.jpg" />
     <episode-num system="onscreen">S07E118</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260710160000 +0000" stop="20260710190000 +0000">
+    <title>The Dan Le Batard Show</title>
+    <desc>Dan Le Batard and the gang share their unique perspectives on sports, pop-culture and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/939412f17b4056ff53450f68ec4a09c2/images/gracenote/assets/p33404900_b_h8_aa.jpg" />
+    <episode-num system="onscreen">S2026E12</episode-num>
   </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260710160000 +0000" stop="20260710190000 +0000">
     <title>The Dan Le Batard Show</title>
@@ -437081,7 +436956,7 @@
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260710190000 +0000" stop="20260710220000 +0000">
     <title>The Dan Patrick Show</title>
     <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/images/gracenote/assets/p18691242_b_h8_aa.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/eea74a46eda59335a01ec020c66cd8ae/rokuFeed/assets/e4ff673534ea51179eb5bd4bfafe9bed.jpg" />
     <episode-num system="onscreen">S07E118</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
@@ -437130,7 +437005,124 @@
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711010000 +0000" stop="20260711040000 +0000">
     <title>The Dan Patrick Show</title>
     <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/images/gracenote/assets/p18691242_b_h8_aa.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/eea74a46eda59335a01ec020c66cd8ae/rokuFeed/assets/e4ff673534ea51179eb5bd4bfafe9bed.jpg" />
+    <episode-num system="onscreen">S07E118</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711040000 +0000" stop="20260711043000 +0000">
+    <title>WNBA on NBC Highlights Factory</title>
+    <desc>The WNBA's biggest stars and top plays come to life.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e2b4d1e7e539e94b6c845c7ee5c532e7/images/gracenote/assets/p32990041_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E08</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711043000 +0000" stop="20260711050000 +0000">
+    <title>WNBA on NBC Highlights Factory</title>
+    <desc>The WNBA's biggest stars and top plays come to life.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e2b4d1e7e539e94b6c845c7ee5c532e7/images/gracenote/assets/p32990041_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E07</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711050000 +0000" stop="20260711053000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E07</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711053000 +0000" stop="20260711060000 +0000">
+    <title>Tour de France: Beyond the Podium</title>
+    <sub-title>Tour de France: Beyond the Podium</sub-title>
+    <desc>Daily breakdowns of each Tour de France stage with experts Brent Bookwalter and Tejay Van Garderen.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4aa0bd19d2de5ba22e69f0be8b002243/images/gracenote/assets/p30380505_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E08</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711060000 +0000" stop="20260711063000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E01</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711063000 +0000" stop="20260711070000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E02</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711070000 +0000" stop="20260711073000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E03</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711073000 +0000" stop="20260711080000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E04</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711080000 +0000" stop="20260711083000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E05</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711083000 +0000" stop="20260711090000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E06</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711090000 +0000" stop="20260711093000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E07</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711093000 +0000" stop="20260711100000 +0000">
+    <title>Tour de France: Beyond the Podium</title>
+    <sub-title>Tour de France: Beyond the Podium</sub-title>
+    <desc>Daily breakdowns of each Tour de France stage with experts Brent Bookwalter and Tejay Van Garderen.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4aa0bd19d2de5ba22e69f0be8b002243/images/gracenote/assets/p30380505_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E08</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711100000 +0000" stop="20260711103000 +0000">
+    <title>Tour de France: Beyond the Podium</title>
+    <sub-title>Tour de France: Beyond the Podium</sub-title>
+    <desc>Daily breakdowns of each Tour de France stage with experts Brent Bookwalter and Tejay Van Garderen.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4aa0bd19d2de5ba22e69f0be8b002243/images/gracenote/assets/p30380505_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E08</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711103000 +0000" stop="20260711110000 +0000">
+    <title>MLB According to CC</title>
+    <desc>CC Sabathia's thoughtful and entertaining insights into the world of Major League Baseball.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/196f40e6a4d685e540e0af17cb630061/images/gracenote/assets/p32854143_b_h8_aa.jpg" />
+    <episode-num system="onscreen">S01E13</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711110000 +0000" stop="20260711140000 +0000">
+    <title>The Dan Patrick Show</title>
+    <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fafbb76977f00796dbc8db717eb497b3/rokuFeed/assets/1283df25756d569585b3162442c9af76.jpg" />
+    <episode-num system="onscreen">S07E116</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711140000 +0000" stop="20260711170000 +0000">
+    <title>The Dan Patrick Show</title>
+    <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/099d10b69850b5f76b2e723f9ecbf489/rokuFeed/assets/6d54d1f8815b56ebb078b7d3816f88a1.jpg" />
+    <episode-num system="onscreen">S07E117</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260711170000 +0000" stop="20260711200000 +0000">
+    <title>The Dan Patrick Show</title>
+    <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/eea74a46eda59335a01ec020c66cd8ae/rokuFeed/assets/e4ff673534ea51179eb5bd4bfafe9bed.jpg" />
     <episode-num system="onscreen">S07E118</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
