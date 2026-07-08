@@ -1,9 +1,10 @@
-## Base Log @ 2026-07-08 16:16 UTC
+## Base Log @ 2026-07-08 21:41 UTC
 
-### ✅ Working Streams: 141<br>❌ Dead Streams: 9
+### ✅ Working Streams: 140<br>❌ Dead Streams: 10
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| C-SPAN | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/92792.ts` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | DAZN | HTTP Error (404) | `https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8` |
 | Fox Business | HTTP Error (404) | `http://41.205.93.154/FOXBUSINESS/index.m3u8` |
