@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-10 11:25 UTC
+## Base Log @ 2026-07-10 16:38 UTC
 
-### ✅ Working Streams: 140<br>❌ Dead Streams: 10
+### ✅ Working Streams: 142<br>❌ Dead Streams: 8
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -12,8 +12,6 @@
 | HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
 | MSNBC | HTTP Error (404) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
 | Showtime | HTTP Error (404) | `http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8` |
-| SportsNet New York | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts` |
-| Sportsman Channel | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/97483.ts` |
 ---
 #### Base Channels URL
 ```
