@@ -1,4 +1,4 @@
-## Base Log @ 2026-07-13 16:57 UTC
+## Base Log @ 2026-07-13 21:30 UTC
 
 ### ✅ Working Streams: 101<br>❌ Dead Streams: 49
 
@@ -45,13 +45,13 @@
 | Paramount Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8` |
 | Reelz Channel | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_REELZ/index.m3u8` |
 | SEC Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8` |
-| STV | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2168.ts` |
 | Showtime | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8` |
 | Starz | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_STARZ/index.m3u8` |
 | Syfy | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_SYFY/index.m3u8` |
 | VH1 | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_VH1/index.m3u8` |
 | Vice TV | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_VICETV/index.m3u8` |
 | We Tv | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_WE_TV/index.m3u8` |
+| Willow Cricket | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
 | YES Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8` |
 ---
 #### Base Channels URL
