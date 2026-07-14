@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-14 10:18 UTC
+## Base Log @ 2026-07-14 15:57 UTC
 
-### ✅ Working Streams: 101<br>❌ Dead Streams: 49
+### ✅ Working Streams: 102<br>❌ Dead Streams: 48
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -52,7 +52,6 @@
 | Vice TV | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_VICETV/index.m3u8` |
 | We Tv | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_WE_TV/index.m3u8` |
 | YES Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8` |
-| beIN Sports 1 | HTTP Error (404) | `https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8` |
 ---
 #### Base Channels URL
 ```
