@@ -1,4 +1,4 @@
-## Base Log @ 2026-07-15 16:02 UTC
+## Base Log @ 2026-07-15 21:31 UTC
 
 ### ✅ Working Streams: 101<br>❌ Dead Streams: 49
 
@@ -7,6 +7,7 @@
 | ACC Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_ACCN/mpegts` |
 | Animal Planet | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8` |
 | BBC America | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8` |
+| BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
 | Big Ten Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_BTN/index.m3u8` |
 | Boomerang | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8` |
 | Bounce TV | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_BOUNCE/index.m3u8` |
@@ -38,7 +39,6 @@
 | MSNBC | HTTP Error (404) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
 | MTV | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_MTV/index.m3u8` |
 | NBA TV | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8` |
-| NESN | HTTP Error (502) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/149310.ts` |
 | NFL Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8` |
 | National Geographic | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8` |
 | Nickelodeon | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8` |
