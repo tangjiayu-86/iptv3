@@ -1,19 +1,27 @@
-## Base Log @ 2026-07-21 16:02 UTC
+## Base Log @ 2026-07-21 21:40 UTC
 
-### ✅ Working Streams: 140<br>❌ Dead Streams: 10
+### ✅ Working Streams: 132<br>❌ Dead Streams: 18
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | ABC | HTTP Error (404) | `http://stream.cammonitorplus.net/1809/index.m3u8` |
 | BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
+| CBS Sports Network | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts` |
+| Comedy TV | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts` |
 | DAZN | HTTP Error (404) | `https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8` |
+| ESPN News | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts` |
 | ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
+| FX Movie Channel | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts` |
+| Freeform TV | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2502.ts` |
+| Golf Channel | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2385.ts` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
 | HBO Comedy | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8` |
 | HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
 | MSNBC | HTTP Error (404) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
 | Showtime | HTTP Error (404) | `http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8` |
+| Starz Encore Classic | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts` |
+| TV Land | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/614330.ts` |
 ---
 #### Base Channels URL
 ```
