@@ -1,9 +1,7 @@
-name: Auto-sync from upstream
-
+name: Auto-sync
 on:
   schedule:
-    # Every day at 03:00 UTC
-    - cron: "0 3 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,23 +10,32 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout fork
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           ref: default
           fetch-depth: 0
-
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      
       - name: Sync from upstream
         run: |
-          set -e
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote add upstream https://github.com/doms9/iptv.git
-          git fetch upstream --prune
-          if git merge upstream/default --ff-only; then
-            echo "Fast-forward merge OK"
+          upstream="${{ github.event.repository.parent.full_name }}"
+          if [ -z "$upstream" ]; then
+            echo "Not a fork, skipping"
+            exit 0
+          fi
+          git remote add upstream "https://github.com/${upstream}.git" 2>/dev/null || git remote set-url upstream "https://github.com/${upstream}.git"
+          git fetch upstream
+          git checkout default
+          if git merge upstream/default --allow-unrelated-histories --no-edit; then
+            echo "Merge successful"
           else
-            echo "FF merge failed, attempting recursive merge..."
-            git merge upstream/default --no-edit --allow-unrelated-histories || true
+            echo "Already up to date or conflict"
+            git merge --abort 2>/dev/null || true
+            exit 0
           fi
           git push origin default
