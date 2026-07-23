@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-23 16:09 UTC
+## Base Log @ 2026-07-23 21:36 UTC
 
-### ✅ Working Streams: 140<br>❌ Dead Streams: 10
+### ✅ Working Streams: 139<br>❌ Dead Streams: 11
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -13,6 +13,7 @@
 | HBO Comedy | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8` |
 | HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
 | MSNBC | HTTP Error (404) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
+| NBC Sports Philadelphia | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts` |
 | Showtime | HTTP Error (404) | `http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8` |
 ---
 #### Base Channels URL
