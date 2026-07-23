@@ -3,7 +3,6 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -15,27 +14,18 @@ jobs:
           ref: default
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
-      
       - name: Configure git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-      
       - name: Sync from upstream
         run: |
           upstream="${{ github.event.repository.parent.full_name }}"
           if [ -z "$upstream" ]; then
-            echo "Not a fork, skipping"
-            exit 0
+            echo "Not a fork, skipping"; exit 0
           fi
           git remote add upstream "https://github.com/${upstream}.git" 2>/dev/null || git remote set-url upstream "https://github.com/${upstream}.git"
           git fetch upstream
           git checkout default
-          if git merge upstream/default --allow-unrelated-histories --no-edit; then
-            echo "Merge successful"
-          else
-            echo "Already up to date or conflict"
-            git merge --abort 2>/dev/null || true
-            exit 0
-          fi
+          git merge upstream/default --allow-unrelated-histories --no-edit || (git merge --abort 2>/dev/null; exit 0)
           git push origin default
