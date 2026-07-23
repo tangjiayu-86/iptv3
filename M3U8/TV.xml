@@ -10229,245 +10229,6 @@
     <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s131810_dark_360w_270h.png" />
     <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s131810_dark_360w_270h.png" />
     </channel>
-  <programme start="20260721080000 +0200" stop="20260721110000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Mundial 2026: España - Argentina</title>
-    <desc lang="es">Cita con la historia en Nueva York. España sueña con levantar la copa más bonita, la del Mundial, y añadir así la segunda estrella al escudo. Una finalísima ante Argentina que por primera vez enfrenta a los actuales campeones de Europa y de Sudamérica.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2618056H4318400" />
-    <country lang="es">EE.UU</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260721110000 +0200" stop="20260721170000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">DAZN Mundial</title>
-    <sub-title lang="es">Especial - Nuestra segunda estrella</sub-title>
-    <desc lang="es">La gesta de los campeones del mundo se merece una fiesta por todo lo alto. Las calles de Madrid se vuelcan con los héroes de Nueva York que consiguieron tejer la segunda estrella en el escudo de la Selección Española.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2620428H4359497" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260721170000 +0200" stop="20260721173000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Revelado - Luis de la Fuente</title>
-    <desc lang="es">Luis de la Fuente entró sin hacer ruido en el banquillo de la Selección, pero ha conseguido impregnar un sello propio al equipo nacional de España. Con él se han logrado Liga de Naciones y Eurocopa y ahora afronta el reto más complicado: el Mundial.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4451580" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260721173000 +0200" stop="20260721180000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Revelado - Rodri</title>
-    <desc lang="es">Rodrigo Hernández se sincera en Revelado, un espacio de DAZN en el que conocemos el lado más personal de los protagonistas.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4451580" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260721180000 +0200" stop="20260721183000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Mundial - Highlights del día</title>
-    <sub-title lang="es">Día 12</sub-title>
-    <desc lang="es">Un repaso rápido a los mejores momentos del Mundial.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2591937H4334377" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260721183000 +0200" stop="20260721190000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Mundial - Highlights del día</title>
-    <sub-title lang="es">Día 13</sub-title>
-    <desc lang="es">Un repaso rápido a los mejores momentos del Mundial.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2592847H4334379" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260721190000 +0200" stop="20260721193000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Mejores momentos del Mundial 2026</title>
-    <sub-title lang="es">Mejores momentos mundial 2026</sub-title>
-    <desc lang="es">Un repaso por los mejores momentos del Mundial.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2621168H4361255" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-  </programme>
-  <programme start="20260721193000 +0200" stop="20260721200000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Mundial - Highlights del día</title>
-    <sub-title lang="es">Día 14</sub-title>
-    <desc lang="es">Un repaso rápido a los mejores momentos del Mundial.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2593682H4334906" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260721200000 +0200" stop="20260721203000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Mundial - Highlights del día</title>
-    <sub-title lang="es">Día 15</sub-title>
-    <desc lang="es">Un repaso rápido a los mejores momentos del Mundial.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2594748H4334908" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260721203000 +0200" stop="20260721210000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Mundial - Highlights del día</title>
-    <sub-title lang="es">Día 16</sub-title>
-    <desc lang="es">Un repaso rápido a los mejores momentos del Mundial.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2596177H4334910" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260721210000 +0200" stop="20260721213000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Mundial - Highlights del día</title>
-    <sub-title lang="es">Día 17</sub-title>
-    <desc lang="es">Un repaso rápido a los mejores momentos del Mundial.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2597049H4334912" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260721213000 +0200" stop="20260721220000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Mejores momentos del Mundial 2026</title>
-    <sub-title lang="es">Mejores momentos mundial 2026</sub-title>
-    <desc lang="es">Un repaso por los mejores momentos del Mundial.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2621168H4361255" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-  </programme>
-  <programme start="20260721220000 +0200" stop="20260722000000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Mundial 2026: España - Cabo Verde</title>
-    <desc lang="es">El Mundial más grande de la historia ya está aquí. La gran cita de selecciones de la FIFA cuenta por primera vez con 48 equipos en busca de la gloria. Estados Unidos, México y Canadá se convierten en el epicentro del planeta fútbol del 11 de junio al 19 de julio.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2585520H4318319" />
-    <country lang="es">EE.UU</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260722000000 +0200" stop="20260722060000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">DAZN Mundial</title>
-    <sub-title lang="es">Especial - Nuestra segunda estrella</sub-title>
-    <desc lang="es">La gesta de los campeones del mundo se merece una fiesta por todo lo alto. Las calles de Madrid se vuelcan con los héroes de Nueva York que consiguieron tejer la segunda estrella en el escudo de la Selección Española.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2620428H4359497" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260722060000 +0200" stop="20260722061500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes Mundial: Sudáfrica - Canadá</title>
-    <desc lang="es">Los encuentros del Mundial 2026 comprimidos en pocos minutos para no perderse nada de lo que ocurra en la cita de Estados Unidos, México y Canadá.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2603027H4342865" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
   <programme start="20260722061500 +0200" stop="20260722063000 +0200" channel="DAZN.LALIGA.es">
     <title lang="es">Mundial - Highlights del día</title>
     <sub-title lang="es">Día 18</sub-title>
@@ -10633,7 +10394,7 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
     <star-rating system="ES">
-      <value>8.0/10</value>
+      <value>10.0/10</value>
     </star-rating>
   </programme>
   <programme start="20260722210000 +0200" stop="20260722211500 +0200" channel="DAZN.LALIGA.es">
@@ -10949,10 +10710,6 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/galeria/M2618056H4318400" />
     <country lang="es">EE.UU</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
     <star-rating system="ES">
       <value>8.0/10</value>
     </star-rating>
@@ -11067,10 +10824,6 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/galeria/M2618056H4318400" />
     <country lang="es">EE.UU</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
     <star-rating system="ES">
       <value>8.0/10</value>
     </star-rating>
@@ -11149,7 +10902,7 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
     <star-rating system="ES">
-      <value>8.0/10</value>
+      <value>10.0/10</value>
     </star-rating>
   </programme>
   <programme start="20260724174500 +0200" stop="20260724181500 +0200" channel="DAZN.LALIGA.es">
@@ -11157,7 +10910,8 @@
     <desc lang="es">La Selección ha hecho historia en el Mundial. La cita de México, Canadá y Estados Unidos quedará guardada por siempre en la memoria de la afición española. El combinado dirigido por Luis de la Fuente alzó en Nueva York la copa y bordó la segunda estrella en el escudo.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/r/caratula5/no-disp-vert" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4451580" />
+    <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
@@ -11290,6 +11044,209 @@
     </rating>
     <star-rating system="ES">
       <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260725050000 +0200" stop="20260725094500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">DAZN Mundial</title>
+    <sub-title lang="es">Especial - Nuestra segunda estrella</sub-title>
+    <desc lang="es">La gesta de los campeones del mundo se merece una fiesta por todo lo alto. Las calles de Madrid se vuelcan con los héroes de Nueva York que consiguieron tejer la segunda estrella en el escudo de la Selección Española.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2620428H4359497" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260725094500 +0200" stop="20260725101500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Mejores momentos del Mundial 2026</title>
+    <sub-title lang="es">Mejores momentos mundial 2026</sub-title>
+    <desc lang="es">Un repaso por los mejores momentos del Mundial.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2621168H4361255" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20260725101500 +0200" stop="20260725104500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Bordando la segunda estrella</title>
+    <desc lang="es">La Selección ha hecho historia en el Mundial. La cita de México, Canadá y Estados Unidos quedará guardada por siempre en la memoria de la afición española. El combinado dirigido por Luis de la Fuente alzó en Nueva York la copa y bordó la segunda estrella en el escudo.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4451580" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20260725104500 +0200" stop="20260725110000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes Mundial: Argentina - Egipto</title>
+    <desc lang="es">Los encuentros del Mundial 2026 comprimidos en pocos minutos para no perderse nada de lo que ocurra en la cita de Estados Unidos, México y Canadá.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2610592H4349150" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260725110000 +0200" stop="20260725130000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Mundial 2026: Francia - España</title>
+    <desc lang="es">España tiene el gigantesco reto de alcanzar la segunda final de un Mundial en su historia. La cita de Dallas centrará las miradas de todo el planeta fútbol. Francia es, para la mayoría, el gran favorito del torneo, con individualidades que marcan la diferencia.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2614571H4318395" />
+    <country lang="es">EE.UU y Francia</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260725130000 +0200" stop="20260725150000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Mundial 2026: Argentina - Argelia</title>
+    <desc lang="es">El Mundial más grande de la historia ya está aquí. La gran cita de selecciones de la FIFA cuenta por primera vez con 48 equipos en busca de la gloria. Estados Unidos, México y Canadá se convierten en el epicentro del planeta fútbol del 11 de junio al 19 de julio.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2586159H4318344" />
+    <country lang="es">EE.UU</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260725150000 +0200" stop="20260725170000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Mundial 2026: Argentina - Austria</title>
+    <desc lang="es">El Mundial más grande de la historia ya está aquí. La gran cita de selecciones de la FIFA cuenta por primera vez con 48 equipos en busca de la gloria. Estados Unidos, México y Canadá se convierten en el epicentro del planeta fútbol del 11 de junio al 19 de julio.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2591728H4318346" />
+    <country lang="es">EE.UU</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260725170000 +0200" stop="20260725190000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Mundial 2026: Argentina - Egipto</title>
+    <desc lang="es">El Mundial más grande de la historia ya está aquí. La gran cita de selecciones de la FIFA cuenta por primera vez con 48 equipos en busca de la gloria. Estados Unidos, México y Canadá se convierten en el epicentro del planeta fútbol del 11 de junio al 19 de julio.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2608459H4318386" />
+    <country lang="es">EE.UU</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260725190000 +0200" stop="20260725191500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes Mundial: Francia - Inglaterra</title>
+    <desc lang="es">Los encuentros del Mundial 2026 comprimidos en pocos minutos para no perderse nada de lo que ocurra en la cita de Estados Unidos, México y Canadá.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2621176H4359115" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260725191500 +0200" stop="20260725193000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes Mundial: España - Argentina</title>
+    <desc lang="es">Los encuentros del Mundial 2026 comprimidos en pocos minutos para no perderse nada de lo que ocurra en la cita de Estados Unidos, México y Canadá.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2621178H4359493" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260725193000 +0200" stop="20260725200000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Mejores momentos del Mundial 2026</title>
+    <sub-title lang="es">Mejores momentos mundial 2026</sub-title>
+    <desc lang="es">Un repaso por los mejores momentos del Mundial.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2621168H4361255" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20260725200000 +0200" stop="20260725220000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Mundial 2026: Francia - España</title>
+    <desc lang="es">España tiene el gigantesco reto de alcanzar la segunda final de un Mundial en su historia. La cita de Dallas centrará las miradas de todo el planeta fútbol. Francia es, para la mayoría, el gran favorito del torneo, con individualidades que marcan la diferencia.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2614571H4318395" />
+    <country lang="es">EE.UU y Francia</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260725220000 +0200" stop="20260726000000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Mundial 2026: España - Austria</title>
+    <desc lang="es">Llega la hora de la verdad para España. La Selección inicia las eliminatorias del Mundial, los partidos en los que o ganas o te vas para casa. En los dieciseisavos de final, Austria pone a prueba a los de Luis de la Fuente en Los Ángeles.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2604011H4318374" />
+    <country lang="es">EE.UU</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260726000000 +0200" stop="20260726030000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Mundial 2026: España - Argentina</title>
+    <desc lang="es">Cita con la historia en Nueva York. España sueña con levantar la copa más bonita, la del Mundial, y añadir así la segunda estrella al escudo. Una finalísima ante Argentina que por primera vez enfrenta a los actuales campeones de Europa y de Sudamérica.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2618056H4318400" />
+    <country lang="es">EE.UU</country>
+    <star-rating system="ES">
+      <value>8.0/10</value>
     </star-rating>
   </programme>
   <channel id="beIN.SPORTS.1.fr">
@@ -431447,112 +431404,6 @@
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" />
     <lcn>225</lcn>
   </channel>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723030000 +0000" stop="20260723033000 +0000">
-    <title>Tour de France Daily Highlights</title>
-    <sub-title>Tour de France Daily Highlights</sub-title>
-    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
-    <episode-num system="onscreen">S2026E16</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723033000 +0000" stop="20260723040000 +0000">
-    <title>Tour de France Daily Highlights</title>
-    <sub-title>Tour de France Daily Highlights</sub-title>
-    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
-    <episode-num system="onscreen">S2026E17</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723040000 +0000" stop="20260723043000 +0000">
-    <title>Tour de France: Beyond the Podium</title>
-    <sub-title>Tour de France: Beyond the Podium</sub-title>
-    <desc>Daily breakdowns of each Tour de France stage with experts Brent Bookwalter and Tejay Van Garderen.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4aa0bd19d2de5ba22e69f0be8b002243/images/gracenote/assets/p30380505_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S2026E23</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723043000 +0000" stop="20260723050000 +0000">
-    <title>MLB According to CC</title>
-    <desc>Sunday Night Baseball, Chris Sale, and behind-the-scenes kangaroo court stories.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/196f40e6a4d685e540e0af17cb630061/images/gracenote/assets/p32854143_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S01E15</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723050000 +0000" stop="20260723053000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S14E133</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723053000 +0000" stop="20260723060000 +0000">
-    <title>Tour de France Daily Highlights</title>
-    <sub-title>Tour de France Daily Highlights</sub-title>
-    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
-    <episode-num system="onscreen">S2026E17</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723060000 +0000" stop="20260723090000 +0000">
-    <title>The Dan Patrick Show</title>
-    <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/rokuFeed/assets/e9f7b03573d35c0da9c41715cadd3045.jpg" />
-    <episode-num system="onscreen">S07E126</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723090000 +0000" stop="20260723093000 +0000">
-    <title>MLB According to CC</title>
-    <desc>Sunday Night Baseball, Chris Sale, and behind-the-scenes kangaroo court stories.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/196f40e6a4d685e540e0af17cb630061/images/gracenote/assets/p32854143_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S01E15</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723093000 +0000" stop="20260723100000 +0000">
-    <title>Tour de France: Beyond the Podium</title>
-    <sub-title>Tour de France: Beyond the Podium</sub-title>
-    <desc>Daily breakdowns of each Tour de France stage with experts Brent Bookwalter and Tejay Van Garderen.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4aa0bd19d2de5ba22e69f0be8b002243/images/gracenote/assets/p30380505_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S2026E23</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723100000 +0000" stop="20260723110000 +0000">
-    <title>Chris Simms Unbuttoned</title>
-    <sub-title>Chris Simms Unbuttoned</sub-title>
-    <desc>On the eve of training camps, some players are starting to get deals; Devon Witherspoon's contract.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/82a87e1327c753a189e12632b49258eb/rokuFeed/assets/ee42a662e62e5109b55dac18918af9cb.jpg" />
-    <episode-num system="onscreen">S07E42</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723110000 +0000" stop="20260723113000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S14E132</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723113000 +0000" stop="20260723120000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S14E133</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723120000 +0000" stop="20260723123000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S14E134</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723123000 +0000" stop="20260723130000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S14E133</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723130000 +0000" stop="20260723160000 +0000">
-    <title>The Dan Patrick Show</title>
-    <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/rokuFeed/assets/e9f7b03573d35c0da9c41715cadd3045.jpg" />
-    <episode-num system="onscreen">S07E127</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260723160000 +0000" stop="20260723190000 +0000">
     <title>The Dan Le Batard Show</title>
     <desc>Dan Le Batard and the gang share their unique perspectives on sports, pop-culture and more.</desc>
@@ -431684,7 +431535,6 @@
     <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
     <episode-num system="onscreen">S14E133</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
   </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260724120000 +0000" stop="20260724123000 +0000">
     <title>PFT Live</title>
@@ -431706,6 +431556,12 @@
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/rokuFeed/assets/e9f7b03573d35c0da9c41715cadd3045.jpg" />
     <episode-num system="onscreen">S07E128</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260724160000 +0000" stop="20260724190000 +0000">
+    <title>The Dan Le Batard Show</title>
+    <desc>Dan Le Batard and the gang share their unique perspectives on sports, pop-culture and more.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/939412f17b4056ff53450f68ec4a09c2/images/gracenote/assets/p33404900_b_h8_aa.jpg" />
+    <episode-num system="onscreen">S2026E26</episode-num>
   </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260724160000 +0000" stop="20260724190000 +0000">
     <title>The Dan Le Batard Show</title>
@@ -432044,5 +431900,215 @@
     <desc>Daily breakdowns of each Tour de France stage with experts Brent Bookwalter and Tejay Van Garderen.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4aa0bd19d2de5ba22e69f0be8b002243/images/gracenote/assets/p30380505_b_h10_ab.jpg" />
     <episode-num system="onscreen">S2026E26</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726030000 +0000" stop="20260726033000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E06</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726033000 +0000" stop="20260726040000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E07</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726040000 +0000" stop="20260726043000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E08</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726043000 +0000" stop="20260726050000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E09</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726050000 +0000" stop="20260726053000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E10</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726053000 +0000" stop="20260726060000 +0000">
+    <title>Tour de France: Beyond the Podium</title>
+    <sub-title>Tour de France: Beyond the Podium</sub-title>
+    <desc>Daily breakdowns of each Tour de France stage with experts Brent Bookwalter and Tejay Van Garderen.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4aa0bd19d2de5ba22e69f0be8b002243/images/gracenote/assets/p30380505_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E26</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726060000 +0000" stop="20260726063000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E11</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726063000 +0000" stop="20260726070000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E12</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726070000 +0000" stop="20260726073000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E13</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726073000 +0000" stop="20260726080000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E14</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726080000 +0000" stop="20260726083000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E15</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726083000 +0000" stop="20260726090000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E16</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726090000 +0000" stop="20260726093000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E20</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726093000 +0000" stop="20260726100000 +0000">
+    <title>Tour de France: Beyond the Podium</title>
+    <sub-title>Tour de France: Beyond the Podium</sub-title>
+    <desc>Daily breakdowns of each Tour de France stage with experts Brent Bookwalter and Tejay Van Garderen.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4aa0bd19d2de5ba22e69f0be8b002243/images/gracenote/assets/p30380505_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E26</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726100000 +0000" stop="20260726103000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E17</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726103000 +0000" stop="20260726110000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E18</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726110000 +0000" stop="20260726113000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E19</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726113000 +0000" stop="20260726120000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E20</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726120000 +0000" stop="20260726123000 +0000">
+    <title>Tour de France: Beyond the Podium</title>
+    <sub-title>Tour de France: Beyond the Podium</sub-title>
+    <desc>Daily breakdowns of each Tour de France stage with experts Brent Bookwalter and Tejay Van Garderen.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4aa0bd19d2de5ba22e69f0be8b002243/images/gracenote/assets/p30380505_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E26</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726123000 +0000" stop="20260726130000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E20</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726130000 +0000" stop="20260726133000 +0000">
+    <title>Tour de France: Beyond the Podium</title>
+    <sub-title>Tour de France: Beyond the Podium</sub-title>
+    <desc>Daily breakdowns of each Tour de France stage with experts Brent Bookwalter and Tejay Van Garderen.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4aa0bd19d2de5ba22e69f0be8b002243/images/gracenote/assets/p30380505_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S2026E26</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726133000 +0000" stop="20260726140000 +0000">
+    <title>MLB According to CC</title>
+    <desc>Sunday Night Baseball, Chris Sale, and behind-the-scenes kangaroo court stories.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/196f40e6a4d685e540e0af17cb630061/images/gracenote/assets/p32854143_b_h8_aa.jpg" />
+    <episode-num system="onscreen">S01E15</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726140000 +0000" stop="20260726143000 +0000">
+    <title>NBC Sports Highlights Factory</title>
+    <sub-title>NBC Sports Highlights Factory</sub-title>
+    <desc>From thrilling goals to college buzzer-beaters, we deliver the electrifying action as it happens.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/10a9569ccc05c0bd819e51c945a4c686/images/gracenote/assets/p29071661_b_h10_aa.jpg" />
+    <episode-num system="onscreen">S02E04</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726143000 +0000" stop="20260726150000 +0000">
+    <title>NBC Sports Highlights Factory</title>
+    <sub-title>NBC Sports Highlights Factory</sub-title>
+    <desc>Manchester United vs Brighton and Hove Albion FC; Arsenal wins Premier League.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/10a9569ccc05c0bd819e51c945a4c686/images/gracenote/assets/p29071661_b_h10_aa.jpg" />
+    <episode-num system="onscreen">S2026E00</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726150000 +0000" stop="20260726153000 +0000">
+    <title>MLB According to CC</title>
+    <desc>Sunday Night Baseball, Chris Sale, and behind-the-scenes kangaroo court stories.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/196f40e6a4d685e540e0af17cb630061/images/gracenote/assets/p32854143_b_h8_aa.jpg" />
+    <episode-num system="onscreen">S01E15</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726153000 +0000" stop="20260726160000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E06</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726160000 +0000" stop="20260726163000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E07</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726163000 +0000" stop="20260726170000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E08</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726170000 +0000" stop="20260726173000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E09</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260726173000 +0000" stop="20260726180000 +0000">
+    <title>Tour de France Daily Highlights</title>
+    <sub-title>Tour de France Daily Highlights</sub-title>
+    <desc>Experience the most demanding cycling race in the world daily with Tour de France Daily Highlights.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/060c4c0888725ce1e68bfabad26295dd/images/gracenote/assets/p30382420_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E10</episode-num>
   </programme>
   <channel id="Ice.Hockey.Dummy.us"><display-name lang="en">Ice Hockey</display-name></channel><programme start="20260722000000 +0000" stop="20260722010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722010000 +0000" stop="20260722020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722020000 +0000" stop="20260722030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722030000 +0000" stop="20260722040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722040000 +0000" stop="20260722050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722050000 +0000" stop="20260722060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722060000 +0000" stop="20260722070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722070000 +0000" stop="20260722080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722080000 +0000" stop="20260722090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722090000 +0000" stop="20260722100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722140000 +0000" stop="20260722150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722160000 +0000" stop="20260722170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722170000 +0000" stop="20260722180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722180000 +0000" stop="20260722190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722190000 +0000" stop="20260722200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722200000 +0000" stop="20260722210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722210000 +0000" stop="20260722220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722220000 +0000" stop="20260722230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260722230000 +0000" stop="20260722235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723030000 +0000" stop="20260723040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723040000 +0000" stop="20260723050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723050000 +0000" stop="20260723060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723060000 +0000" stop="20260723070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723070000 +0000" stop="20260723080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723080000 +0000" stop="20260723090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723090000 +0000" stop="20260723100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723100000 +0000" stop="20260723110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723110000 +0000" stop="20260723120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723120000 +0000" stop="20260723130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723130000 +0000" stop="20260723140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723140000 +0000" stop="20260723150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723150000 +0000" stop="20260723160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723160000 +0000" stop="20260723170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723170000 +0000" stop="20260723180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723180000 +0000" stop="20260723190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723190000 +0000" stop="20260723200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723200000 +0000" stop="20260723210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723210000 +0000" stop="20260723220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723220000 +0000" stop="20260723230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260723230000 +0000" stop="20260723235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724000000 +0000" stop="20260724010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724010000 +0000" stop="20260724020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724020000 +0000" stop="20260724030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724030000 +0000" stop="20260724040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724040000 +0000" stop="20260724050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724050000 +0000" stop="20260724060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724060000 +0000" stop="20260724070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724070000 +0000" stop="20260724080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724080000 +0000" stop="20260724090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724090000 +0000" stop="20260724100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724100000 +0000" stop="20260724110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724110000 +0000" stop="20260724120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724120000 +0000" stop="20260724130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724130000 +0000" stop="20260724140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724140000 +0000" stop="20260724150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724150000 +0000" stop="20260724160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724160000 +0000" stop="20260724170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724170000 +0000" stop="20260724180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724180000 +0000" stop="20260724190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724190000 +0000" stop="20260724200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724200000 +0000" stop="20260724210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724210000 +0000" stop="20260724220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724220000 +0000" stop="20260724230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260724230000 +0000" stop="20260724235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725000000 +0000" stop="20260725010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725010000 +0000" stop="20260725020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725020000 +0000" stop="20260725030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725030000 +0000" stop="20260725040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725040000 +0000" stop="20260725050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725050000 +0000" stop="20260725060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725060000 +0000" stop="20260725070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725070000 +0000" stop="20260725080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725080000 +0000" stop="20260725090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725090000 +0000" stop="20260725100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725100000 +0000" stop="20260725110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725110000 +0000" stop="20260725120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725120000 +0000" stop="20260725130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725130000 +0000" stop="20260725140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725140000 +0000" stop="20260725150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725150000 +0000" stop="20260725160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725160000 +0000" stop="20260725170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725170000 +0000" stop="20260725180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725180000 +0000" stop="20260725190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725190000 +0000" stop="20260725200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725200000 +0000" stop="20260725210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725210000 +0000" stop="20260725220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725220000 +0000" stop="20260725230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260725230000 +0000" stop="20260725235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><channel id="NCAA.Sports.Dummy.us"><display-name lang="en">NCAA Sports</display-name></channel><programme start="20260722000000 +0000" stop="20260722010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722010000 +0000" stop="20260722020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722020000 +0000" stop="20260722030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722030000 +0000" stop="20260722040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722040000 +0000" stop="20260722050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722050000 +0000" stop="20260722060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722060000 +0000" stop="20260722070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722070000 +0000" stop="20260722080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722080000 +0000" stop="20260722090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722090000 +0000" stop="20260722100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722140000 +0000" stop="20260722150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722160000 +0000" stop="20260722170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722170000 +0000" stop="20260722180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722180000 +0000" stop="20260722190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722190000 +0000" stop="20260722200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722200000 +0000" stop="20260722210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722210000 +0000" stop="20260722220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722220000 +0000" stop="20260722230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260722230000 +0000" stop="20260722235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723030000 +0000" stop="20260723040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723040000 +0000" stop="20260723050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723050000 +0000" stop="20260723060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723060000 +0000" stop="20260723070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723070000 +0000" stop="20260723080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723080000 +0000" stop="20260723090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723090000 +0000" stop="20260723100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723100000 +0000" stop="20260723110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723110000 +0000" stop="20260723120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723120000 +0000" stop="20260723130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723130000 +0000" stop="20260723140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723140000 +0000" stop="20260723150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723150000 +0000" stop="20260723160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723160000 +0000" stop="20260723170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723170000 +0000" stop="20260723180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723180000 +0000" stop="20260723190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723190000 +0000" stop="20260723200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723200000 +0000" stop="20260723210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723210000 +0000" stop="20260723220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723220000 +0000" stop="20260723230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260723230000 +0000" stop="20260723235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724000000 +0000" stop="20260724010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724010000 +0000" stop="20260724020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724020000 +0000" stop="20260724030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724030000 +0000" stop="20260724040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724040000 +0000" stop="20260724050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724050000 +0000" stop="20260724060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724060000 +0000" stop="20260724070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724070000 +0000" stop="20260724080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724080000 +0000" stop="20260724090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724090000 +0000" stop="20260724100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724100000 +0000" stop="20260724110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724110000 +0000" stop="20260724120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724120000 +0000" stop="20260724130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724130000 +0000" stop="20260724140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724140000 +0000" stop="20260724150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724150000 +0000" stop="20260724160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724160000 +0000" stop="20260724170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724170000 +0000" stop="20260724180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724180000 +0000" stop="20260724190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724190000 +0000" stop="20260724200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724200000 +0000" stop="20260724210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724210000 +0000" stop="20260724220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724220000 +0000" stop="20260724230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260724230000 +0000" stop="20260724235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725000000 +0000" stop="20260725010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725010000 +0000" stop="20260725020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725020000 +0000" stop="20260725030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725030000 +0000" stop="20260725040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725040000 +0000" stop="20260725050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725050000 +0000" stop="20260725060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725060000 +0000" stop="20260725070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725070000 +0000" stop="20260725080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725080000 +0000" stop="20260725090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725090000 +0000" stop="20260725100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725100000 +0000" stop="20260725110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725110000 +0000" stop="20260725120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725120000 +0000" stop="20260725130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725130000 +0000" stop="20260725140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725140000 +0000" stop="20260725150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725150000 +0000" stop="20260725160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725160000 +0000" stop="20260725170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725170000 +0000" stop="20260725180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725180000 +0000" stop="20260725190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725190000 +0000" stop="20260725200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725200000 +0000" stop="20260725210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725210000 +0000" stop="20260725220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725220000 +0000" stop="20260725230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260725230000 +0000" stop="20260725235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><channel id="UFC.Dummy.us"><display-name lang="en">UFC</display-name></channel><programme start="20260722000000 +0000" stop="20260722010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722010000 +0000" stop="20260722020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722020000 +0000" stop="20260722030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722030000 +0000" stop="20260722040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722040000 +0000" stop="20260722050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722050000 +0000" stop="20260722060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722060000 +0000" stop="20260722070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722070000 +0000" stop="20260722080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722080000 +0000" stop="20260722090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722090000 +0000" stop="20260722100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722100000 +0000" stop="20260722110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722120000 +0000" stop="20260722130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722140000 +0000" stop="20260722150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722160000 +0000" stop="20260722170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722170000 +0000" stop="20260722180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722180000 +0000" stop="20260722190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722190000 +0000" stop="20260722200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722200000 +0000" stop="20260722210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722210000 +0000" stop="20260722220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722220000 +0000" stop="20260722230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260722230000 +0000" stop="20260722235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723030000 +0000" stop="20260723040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723040000 +0000" stop="20260723050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723050000 +0000" stop="20260723060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723060000 +0000" stop="20260723070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723070000 +0000" stop="20260723080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723080000 +0000" stop="20260723090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723090000 +0000" stop="20260723100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723100000 +0000" stop="20260723110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723110000 +0000" stop="20260723120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723120000 +0000" stop="20260723130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723130000 +0000" stop="20260723140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723140000 +0000" stop="20260723150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723150000 +0000" stop="20260723160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723160000 +0000" stop="20260723170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723170000 +0000" stop="20260723180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723180000 +0000" stop="20260723190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723190000 +0000" stop="20260723200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723200000 +0000" stop="20260723210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723210000 +0000" stop="20260723220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723220000 +0000" stop="20260723230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260723230000 +0000" stop="20260723235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724000000 +0000" stop="20260724010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724010000 +0000" stop="20260724020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724020000 +0000" stop="20260724030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724030000 +0000" stop="20260724040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724040000 +0000" stop="20260724050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724050000 +0000" stop="20260724060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724060000 +0000" stop="20260724070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724070000 +0000" stop="20260724080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724080000 +0000" stop="20260724090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724090000 +0000" stop="20260724100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724100000 +0000" stop="20260724110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724110000 +0000" stop="20260724120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724120000 +0000" stop="20260724130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724130000 +0000" stop="20260724140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724140000 +0000" stop="20260724150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724150000 +0000" stop="20260724160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724160000 +0000" stop="20260724170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724170000 +0000" stop="20260724180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724180000 +0000" stop="20260724190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724190000 +0000" stop="20260724200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724200000 +0000" stop="20260724210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724210000 +0000" stop="20260724220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724220000 +0000" stop="20260724230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260724230000 +0000" stop="20260724235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725000000 +0000" stop="20260725010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725010000 +0000" stop="20260725020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725020000 +0000" stop="20260725030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725030000 +0000" stop="20260725040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725040000 +0000" stop="20260725050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725050000 +0000" stop="20260725060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725060000 +0000" stop="20260725070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725070000 +0000" stop="20260725080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725080000 +0000" stop="20260725090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725090000 +0000" stop="20260725100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725100000 +0000" stop="20260725110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725110000 +0000" stop="20260725120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725120000 +0000" stop="20260725130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725130000 +0000" stop="20260725140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725140000 +0000" stop="20260725150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725150000 +0000" stop="20260725160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725160000 +0000" stop="20260725170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725170000 +0000" stop="20260725180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725180000 +0000" stop="20260725190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725190000 +0000" stop="20260725200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725200000 +0000" stop="20260725210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725210000 +0000" stop="20260725220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725220000 +0000" stop="20260725230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260725230000 +0000" stop="20260725235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme></tv>
