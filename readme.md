@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-27 16:40 UTC
+## Base Log @ 2026-07-27 21:39 UTC
 
-### ✅ Working Streams: 140<br>❌ Dead Streams: 10
+### ✅ Working Streams: 139<br>❌ Dead Streams: 11
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -14,6 +14,7 @@
 | HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
 | MSNBC | HTTP Error (404) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
 | Showtime | HTTP Error (404) | `http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8` |
+| beIN Sports 1 | HTTP Error (504) | `https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8` |
 ---
 #### Base Channels URL
 ```
