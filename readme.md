@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-01 15:36 UTC
+## Base Log @ 2026-08-01 21:25 UTC
 
-### ✅ Working Streams: 140<br>❌ Dead Streams: 10
+### ✅ Working Streams: 136<br>❌ Dead Streams: 14
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -13,7 +13,11 @@
 | HBO Comedy | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8` |
 | HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
 | MSNBC | HTTP Error (404) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
+| Premier Sports 1 | HTTP Error (502) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89089.ts` |
 | Showtime | HTTP Error (404) | `http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8` |
+| Sky Sports Football | HTTP Error (502) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts` |
+| Sky Sports News | HTTP Error (502) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts` |
+| Spectrum SportsNet Lakers | HTTP Error (502) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/512561.ts` |
 ---
 #### Base Channels URL
 ```
