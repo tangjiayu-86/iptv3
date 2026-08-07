@@ -1,39 +1,32 @@
-## Base Log @ 2026-08-07 09:32 UTC
+## Base Log @ 2026-08-07 15:24 UTC
 
-### ✅ Working Streams: 120<br>❌ Dead Streams: 30
+### ✅ Working Streams: 127<br>❌ Dead Streams: 23
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | ABC | HTTP Error (404) | `http://stream.cammonitorplus.net/1809/index.m3u8` |
 | BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
-| C-SPAN | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/92792.ts` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
-| Cooking Channel | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_COOKING/index.m3u8` |
 | DAZN | HTTP Error (404) | `https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8` |
-| ESPN News | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts` |
+| Discovery Science | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2595.ts` |
+| Disney Channel | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts` |
 | ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
 | Fox Sports 2 | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts` |
 | Freeform TV | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2502.ts` |
+| Game Show Network | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648975.ts` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
 | HBO Comedy | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8` |
 | HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
+| Hallmark Family | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/660922.ts` |
 | MSNBC | HTTP Error (404) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
-| MotorTrend TV | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3747.ts` |
-| NBC | HTTP Error (404) | `http://stream.cammonitorplus.net/1812/index.m3u8` |
-| NHL Network | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3672.ts` |
 | Nick Jr | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74691.ts` |
-| Ovation | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/31180.ts` |
-| Premier Sports 1 | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89089.ts` |
-| SEC Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8` |
+| Oxygen | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3756.ts` |
+| Premier Sports 2 | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89090.ts` |
 | Showtime | HTTP Error (404) | `http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8` |
 | Sky Sports Football | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts` |
-| Sony Movie Channel | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2412.ts` |
-| Sportsman Channel | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/97483.ts` |
+| Sky Sports News | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts` |
+| TSN1 | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts` |
 | TSN2 | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts` |
-| TV Land | HTTP Timeout (408) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/614330.ts` |
-| TV One | HTTP Timeout (408) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21897.ts` |
-| The Weather Channel | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/42308.ts` |
-| USA Network | HTTP Timeout (408) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3767.ts` |
 ---
 #### Base Channels URL
 ```
