@@ -1,30 +1,30 @@
-## Base Log @ 2026-08-09 15:01 UTC
+## Base Log @ 2026-08-09 21:03 UTC
 
 ### ✅ Working Streams: 129<br>❌ Dead Streams: 21
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | ABC | HTTP Error (404) | `http://stream.cammonitorplus.net/1809/index.m3u8` |
+| Altitude Sports | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts` |
 | BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
+| CW | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts` |
 | DAZN | HTTP Error (404) | `https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8` |
-| Disney Channel | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts` |
+| Discovery Life | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2597.ts` |
 | ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
-| Grit TV | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/40583.ts` |
+| FX Movie Channel | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
 | HBO Comedy | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8` |
 | HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
-| History Channel | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/645913.ts` |
+| Hallmark Family | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/660922.ts` |
 | INSP | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74682.ts` |
+| MLB Network | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
 | MSNBC | HTTP Error (404) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
-| Marquee Sports Network | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts` |
-| MotorTrend TV | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3747.ts` |
-| NBC Sports Bay Area | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts` |
-| PBS Kids | HTTP Timeout (408) | `https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8` |
-| Premier Sports 1 | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89089.ts` |
+| NBC Sports Boston | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2435.ts` |
+| Pop TV | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3863.ts` |
+| Showtime Extreme | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts` |
 | Showtime | HTTP Error (404) | `http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8` |
-| SportsNet New York | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts` |
-| TV Land | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/614330.ts` |
+| Willow Cricket | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
 ---
 #### Base Channels URL
 ```
