@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-16 20:46 UTC
+## Base Log @ 2026-08-17 09:08 UTC
 
-### ✅ Working Streams: 66<br>❌ Dead Streams: 84
+### ✅ Working Streams: 67<br>❌ Dead Streams: 83
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -23,7 +23,6 @@
 | Discovery Science | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2595.ts` |
 | Disney Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts` |
 | ESPN News | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts` |
-| ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
 | ESPN2 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts` |
 | FX Movie Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts` |
 | FYI TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30924.ts` |
