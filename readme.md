@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-19 09:04 UTC
+## Base Log @ 2026-08-19 15:02 UTC
 
-### ✅ Working Streams: 66<br>❌ Dead Streams: 84
+### ✅ Working Streams: 64<br>❌ Dead Streams: 86
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -48,11 +48,13 @@
 | MSNBC | HTTP Error (404) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
 | Marquee Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts` |
 | MotorTrend TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3747.ts` |
+| NBA TV | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8` |
 | NBC Sports Bay Area | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts` |
 | NBC Sports Boston | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2435.ts` |
 | NBC Sports Philadelphia | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts` |
 | NESN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/149310.ts` |
 | NHL Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3672.ts` |
+| National Geographic | HTTP Error (404) | `http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8` |
 | NewsNation | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647784.ts` |
 | Nick Jr | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74691.ts` |
 | Nicktoons | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3674.ts` |
