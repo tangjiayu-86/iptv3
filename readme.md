@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-02 12:52 UTC
+## Base Log @ 2026-09-02 17:58 UTC
 
-### ✅ Working Streams: 66<br>❌ Dead Streams: 84
+### ✅ Working Streams: 67<br>❌ Dead Streams: 83
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -17,7 +17,6 @@
 | CW | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts` |
 | Comedy TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts` |
 | Cozi TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2604.ts` |
-| DAZN | HTTP Error (404) | `https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8` |
 | Discovery Family Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2598.ts` |
 | Discovery Life | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2597.ts` |
 | Discovery Science | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2595.ts` |
