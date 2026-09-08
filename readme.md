@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-07 22:56 UTC
+## Base Log @ 2026-09-08 12:58 UTC
 
-### ✅ Working Streams: 67<br>❌ Dead Streams: 83
+### ✅ Working Streams: 66<br>❌ Dead Streams: 84
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -50,6 +50,7 @@
 | NBC Sports Bay Area | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts` |
 | NBC Sports Boston | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2435.ts` |
 | NBC Sports Philadelphia | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts` |
+| NBC | HTTP Error (404) | `http://stream.cammonitorplus.net/1812/index.m3u8` |
 | NESN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/149310.ts` |
 | NHL Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3672.ts` |
 | NewsNation | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647784.ts` |
