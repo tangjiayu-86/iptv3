@@ -9621,408 +9621,6 @@
     <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s131810_dark_360w_270h.png" />
     <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s131810_dark_360w_270h.png" />
     </channel>
-  <programme start="20260910090000 +0200" stop="20260910120000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
-  <programme start="20260910120000 +0200" stop="20260910140000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">LALIGA EA SPORTS: Levante - Betis</title>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2644650H4345858" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260910140000 +0200" stop="20260910143000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Linea Diletta</title>
-    <sub-title lang="es">A solas con Joaquín</sub-title>
-    <desc lang="es">La periodista italiana Diletta Leotta conversa con personalidades del mundo del fútbol.</desc>
-    <date>2023</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1892873H3218700" />
-    <country lang="es">Italia</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260910143000 +0200" stop="20260910144500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: Las Palmas - Leganés</title>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2064417H4361304" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260910144500 +0200" stop="20260910164500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">LALIGA EA SPORTS: Málaga CF - Deportivo Alavés</title>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2640741H4345867" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260910164500 +0200" stop="20260910170000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Villarreal - Deportivo</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2649307H4386749" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260910170000 +0200" stop="20260910171500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Betis - Real Madrid</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2648449H4386029" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260910171500 +0200" stop="20260910173000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Valencia - Barcelona</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2650250H4386747" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260910173000 +0200" stop="20260910174500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Athletic - At. Madrid</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2649297H4386739" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260910174500 +0200" stop="20260910190000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">El Post de DAZN</title>
-    <desc lang="es">La jornada de LaLiga no termina con el pitido final del último partido. Presentado por Miguel Quintana y acompañado por todo el equipo de comentaristas de DAZN, este es el programa perfecto para enterarte de todo lo que ha sucedido en cada partido.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2650259H4386731" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T26/27 Ep.2</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260910190000 +0200" stop="20260910210000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">LALIGA EA SPORTS: Rayo Vallecano - Deportivo Alavés</title>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2637866H4345865" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260910210000 +0200" stop="20260910223000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">La Dazoneta</title>
-    <desc lang="es">Un vistazo a la actualidad  futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2650719H4386733" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T2 Ep.4</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260910223000 +0200" stop="20260911003000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">LALIGA EA SPORTS: Atlético de Madrid - Villarreal CF</title>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2640482H4345872" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260911003000 +0200" stop="20260911010000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Masterclass</title>
-    <sub-title lang="es">Gerard Moreno</sub-title>
-    <desc lang="es">Jugadores de primer nivel muestran sus habilidades con el balón.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/MDAZNL4H4271944" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260911010000 +0200" stop="20260911050000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
-  <programme start="20260911050000 +0200" stop="20260911090000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
-  <programme start="20260911090000 +0200" stop="20260911120000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
-  <programme start="20260911120000 +0200" stop="20260911140000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">LALIGA EA SPORTS: FC Barcelona - Athletic Club</title>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2642933H4345882" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260911140000 +0200" stop="20260911150000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Decoded</title>
-    <sub-title lang="es">Lamine Yamal</sub-title>
-    <desc lang="es">Una nueva entrega de Decoded en la que el programa analiza a Lamine Yamal, el joven futbolista del FC Barcelona que está llamado a marcar una época en el fútbol mundial.</desc>
-    <date>2025</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2230832H3960528" />
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260911150000 +0200" stop="20260911170000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">LALIGA EA SPORTS: Real Madrid - Rayo</title>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2477896H4068104" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260911170000 +0200" stop="20260911173000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Davide, el príncipe Ancelotti</title>
-    <desc lang="es">Entrevista con Davide Ancelotti en la que habla de su futuro como posible entrenador del Real Madrid.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2518194H4262737" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260911173000 +0200" stop="20260911174500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Villarreal - Deportivo</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2649307H4386749" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260911174500 +0200" stop="20260911194500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">LALIGA EA SPORTS: Deportivo - Valencia</title>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2645239H4345860" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260911194500 +0200" stop="20260911200000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Valencia - Barcelona</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2650250H4386747" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260911200000 +0200" stop="20260911203000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Bordando la segunda estrella</title>
-    <desc lang="es">La Selección ha hecho historia en el Mundial. La cita de México, Canadá y Estados Unidos quedará guardada por siempre en la memoria de la afición española. El combinado dirigido por Luis de la Fuente alzó en Nueva York la copa y bordó la segunda estrella en el escudo.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4451580" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260911203000 +0200" stop="20260911233000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">LALIGA EA SPORTS: Sevilla FC - Valencia CF</title>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2654135H4345832" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260911233000 +0200" stop="20260912000000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Premier Corner by Guiness 0,0</title>
-    <sub-title lang="es">Unai Emery, maestro de la táctica y rey de Birmingham</sub-title>
-    <desc lang="es">El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.</desc>
-    <date>2024</date>
-    <category lang="es">Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4315931" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T2024</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260912000000 +0200" stop="20260912001500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: Albacete BP - Córdoba CF</title>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2654137H4361328" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260912001500 +0200" stop="20260912010000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">LALIGA VS</title>
-    <sub-title lang="es">Elma Saiz y Javier Tebas</sub-title>
-    <desc lang="es">LALIGA VS es una plataforma de LALIGA cuya misión es erradicar el odio tanto dentro fuera de los estadios, visibilizando y condenando todas aquellas conductas que no tienen cabida en el fútbol. Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.</desc>
-    <date>2024</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4295779" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T2</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260912010000 +0200" stop="20260912050000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
-  <programme start="20260912050000 +0200" stop="20260912090000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
   <programme start="20260912090000 +0200" stop="20260912120000 +0200" channel="DAZN.LALIGA.es">
     <title lang="es">DAZN LaLiga</title>
   </programme>
@@ -10047,7 +9645,7 @@
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2654137H4361328" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1551820H4361328" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -10155,26 +9753,23 @@
     </star-rating>
   </programme>
   <programme start="20260912193000 +0200" stop="20260912194500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: UD Almería - RC Celta B</title>
+    <title lang="es">Resúmenes LALIGA HyperMotion: FC Andorra - Real Sociedad B</title>
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2655578H4361329" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660949H4361320" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260912194500 +0200" stop="20260912200000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: FC Andorra - Real Sporting</title>
+    <title lang="es">Resúmenes LALIGA HyperMotion: Cádiz CF - UD Las Palmas</title>
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2655580H4361330" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660950H4361317" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -10230,11 +9825,11 @@
     </star-rating>
   </programme>
   <programme start="20260913001500 +0200" stop="20260913003000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: Cádiz CF - Girona FC</title>
+    <title lang="es">Resúmenes LALIGA HyperMotion: Córdoba CF - UD Almería</title>
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2655585H4361331" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660954H4361322" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -10245,11 +9840,11 @@
     </star-rating>
   </programme>
   <programme start="20260913003000 +0200" stop="20260913004500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: CD Castellón - CD Tenerife</title>
+    <title lang="es">Resúmenes LALIGA HyperMotion: Granada CF - Albacete BP</title>
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2655588H4361332" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660956H4361324" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -10260,11 +9855,11 @@
     </star-rating>
   </programme>
   <programme start="20260913004500 +0200" stop="20260913010000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: CD Eldense - SD Eibar</title>
+    <title lang="es">Resúmenes LALIGA HyperMotion: Girona FC - CD Castellón</title>
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2655589H4361333" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660955H4361323" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -10315,11 +9910,11 @@
     </star-rating>
   </programme>
   <programme start="20260913133000 +0200" stop="20260913134500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: Cádiz CF - Girona FC</title>
+    <title lang="es">Resúmenes LALIGA HyperMotion: Córdoba CF - UD Almería</title>
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2655585H4361331" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660954H4361322" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -10377,11 +9972,11 @@
     </star-rating>
   </programme>
   <programme start="20260913171500 +0200" stop="20260913173000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: CD Leganés - Granada CF</title>
+    <title lang="es">Resúmenes LALIGA HyperMotion: Real Sporting - CD Eldense</title>
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656527H4361334" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660958H4361325" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -10392,11 +9987,11 @@
     </star-rating>
   </programme>
   <programme start="20260913173000 +0200" stop="20260913174500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: CD Castellón - CD Tenerife</title>
+    <title lang="es">Resúmenes LALIGA HyperMotion: Granada CF - Albacete BP</title>
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2655588H4361332" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660956H4361324" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -10407,11 +10002,11 @@
     </star-rating>
   </programme>
   <programme start="20260913174500 +0200" stop="20260913180000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: CD Eldense - SD Eibar</title>
+    <title lang="es">Resúmenes LALIGA HyperMotion: Girona FC - CD Castellón</title>
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2655589H4361333" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660955H4361323" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -10422,11 +10017,11 @@
     </star-rating>
   </programme>
   <programme start="20260913180000 +0200" stop="20260913181500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: FC Andorra - Real Sporting</title>
+    <title lang="es">Resúmenes LALIGA HyperMotion: Cádiz CF - UD Las Palmas</title>
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2655580H4361330" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660950H4361317" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -10477,11 +10072,11 @@
     </star-rating>
   </programme>
   <programme start="20260913193000 +0200" stop="20260913194500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: CD Leganés - Granada CF</title>
+    <title lang="es">Resúmenes LALIGA HyperMotion: Real Sporting - CD Eldense</title>
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656527H4361334" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660958H4361325" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -10492,11 +10087,11 @@
     </star-rating>
   </programme>
   <programme start="20260913194500 +0200" stop="20260913200000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: UD Las Palmas - Burgos</title>
+    <title lang="es">Resúmenes LALIGA HyperMotion: Real Valladolid CF - Real Oviedo</title>
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656531H4361335" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660960H4361326" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -10565,15 +10160,15 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
     <star-rating system="ES">
-      <value>8.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
   </programme>
   <programme start="20260914003000 +0200" stop="20260914004500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: Real Sociedad B - RCD Mallorca</title>
+    <title lang="es">Resúmenes LALIGA HyperMotion: CD Tenerife - CD Leganés</title>
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656540H4361336" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660962H4361318" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -10584,11 +10179,11 @@
     </star-rating>
   </programme>
   <programme start="20260914004500 +0200" stop="20260914010000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: CE Sabadell - Real Oviedo</title>
+    <title lang="es">Resúmenes LALIGA HyperMotion: RCD Mallorca - CE Sabadell</title>
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656541H4361337" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660964H4361319" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -10599,6 +10194,576 @@
     </star-rating>
   </programme>
   <programme start="20260914010000 +0200" stop="20260914050000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20260914050000 +0200" stop="20260914090000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20260914090000 +0200" stop="20260914120000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20260914120000 +0200" stop="20260914140000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">LALIGA EA SPORTS: Real Sociedad - Atlético de Madrid</title>
+    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656533H4345833" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260914140000 +0200" stop="20260914141500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Getafe - Deportivo</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656538H4392044" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260914141500 +0200" stop="20260914143000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Osasuna - Espanyol</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2655576H4392041" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260914143000 +0200" stop="20260914144500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Athletic - Elche</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2655583H4392042" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260914144500 +0200" stop="20260914150000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Levante - Barcelona</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656529H4392043" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260914150000 +0200" stop="20260914163000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">La Dazoneta</title>
+    <sub-title lang="es">Programa 5</sub-title>
+    <desc lang="es">Un vistazo a la actualidad  futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656929H4392031" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260914163000 +0200" stop="20260914164500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes LALIGA HyperMotion: CD Tenerife - CD Leganés</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660962H4361318" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260914164500 +0200" stop="20260914170000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes LALIGA HyperMotion: RCD Mallorca - CE Sabadell</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660964H4361319" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260914170000 +0200" stop="20260914181500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">El Post de DAZN</title>
+    <sub-title lang="es">Programa 3</sub-title>
+    <desc lang="es">La jornada de LaLiga no termina con el pitido final del último partido. Presentado por Miguel Quintana y acompañado por todo el equipo de comentaristas de DAZN, este es el programa perfecto para enterarte de todo lo que ha sucedido en cada partido.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656536H4392029" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T26/27</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260914181500 +0200" stop="20260914201500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">LALIGA EA SPORTS: Real Madrid - Rayo Vallecano</title>
+    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2655581H4345834" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260914201500 +0200" stop="20260914213000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">El Arquitecto. Del mito al desafío</title>
+    <desc lang="es">Análisis en profundidad sobre la figura de Xabi Alonso, el entrenador del Real Madrid CF y actualmente en el centro de todas las miradas. El documental contrapone su etapa gloriosa como futbolista con sus éxitos iniciales como entrenador en el Bayer Leverkusen.</desc>
+    <credits>
+      <director>Iván Fanlo</director>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4451580" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260914213000 +0200" stop="20260914221500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Especiales LaLiga fin de temporada</title>
+    <sub-title lang="es">El sentido: Laliga Genuine</sub-title>
+    <desc lang="es">LaLiga EA Sports ha finalizado otro curso plagado de historias y de fútbol. El campeonato español de la regularidad deja relatos para el recuerdo y héroes que se han convertido en los protagonistas de la temporada.</desc>
+    <date>2025</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2329764H4073903" />
+    <episode-num system="onscreen">T24/25</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260914221500 +0200" stop="20260914224500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Premier Corner by Guiness 0,0</title>
+    <sub-title lang="es">Unai Emery, maestro de la táctica y rey de Birmingham</sub-title>
+    <desc lang="es">El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.</desc>
+    <date>2024</date>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4315931" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T2024</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260914224500 +0200" stop="20260914231500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Linea Diletta</title>
+    <sub-title lang="es">A solas con Joaquín</sub-title>
+    <desc lang="es">La periodista italiana Diletta Leotta conversa con personalidades del mundo del fútbol.</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1892873H3218700" />
+    <country lang="es">Italia</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260914231500 +0200" stop="20260914234500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Masterclass</title>
+    <sub-title lang="es">Gerard Moreno</sub-title>
+    <desc lang="es">Jugadores de primer nivel muestran sus habilidades con el balón.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/MDAZNL4H4271944" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260914234500 +0200" stop="20260915000000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Masterclass</title>
+    <sub-title lang="es">Antony</sub-title>
+    <desc lang="es">Jugadores de primer nivel muestran sus habilidades con el balón.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/MDAZNL2H4378481" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915000000 +0200" stop="20260915001500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Villarreal - Betis</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656931H4392045" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915001500 +0200" stop="20260915003000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes LALIGA HyperMotion: RC Celta B - SD Eibar</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660966H4361321" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915003000 +0200" stop="20260915010000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Bordando la segunda estrella</title>
+    <desc lang="es">La Selección ha hecho historia en el Mundial. La cita de México, Canadá y Estados Unidos quedará guardada por siempre en la memoria de la afición española. El combinado dirigido por Luis de la Fuente alzó en Nueva York la copa y bordó la segunda estrella en el escudo.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4451580" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915010000 +0200" stop="20260915050000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20260915050000 +0200" stop="20260915090000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20260915090000 +0200" stop="20260915120000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20260915120000 +0200" stop="20260915140000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">LALIGA EA SPORTS: RC Celta - Málaga CF</title>
+    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656525H4345839" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915140000 +0200" stop="20260915151500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">El Post de DAZN</title>
+    <sub-title lang="es">Programa 3</sub-title>
+    <desc lang="es">La jornada de LaLiga no termina con el pitido final del último partido. Presentado por Miguel Quintana y acompañado por todo el equipo de comentaristas de DAZN, este es el programa perfecto para enterarte de todo lo que ha sucedido en cada partido.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656536H4392029" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T26/27</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915151500 +0200" stop="20260915171500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">LALIGA EA SPORTS: Sevilla FC - Valencia CF</title>
+    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2654135H4345832" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915171500 +0200" stop="20260915184500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">La Dazoneta</title>
+    <sub-title lang="es">Programa 5</sub-title>
+    <desc lang="es">Un vistazo a la actualidad  futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656929H4392031" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915184500 +0200" stop="20260915190000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes LALIGA HyperMotion: RC Celta B - SD Eibar</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660966H4361321" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915190000 +0200" stop="20260915191500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Villarreal - Betis</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656931H4392045" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915191500 +0200" stop="20260915193000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Athletic - Elche</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2655583H4392042" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915193000 +0200" stop="20260915194500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Levante - Barcelona</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656529H4392043" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915194500 +0200" stop="20260915223000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">LALIGA EA SPORTS: Deportivo Alavés - Valencia CF</title>
+    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2657576H4345829" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915223000 +0200" stop="20260915224500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Rayo - Espanyol</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2657577H4392065" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915224500 +0200" stop="20260915230000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Real Sociedad - Celta</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2647581H4384761" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915230000 +0200" stop="20260915233000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">The Making of Mourinho: El Comienzo</title>
+    <sub-title lang="es">El comienzo</sub-title>
+    <desc lang="es">En 2003, El Manchester United de Sir Alex Ferguson recibió en Old Trafford al Oporto de José Mourinho en un tenso partido de octavos de final de la UEFA Champions League. Un encuentro que desempeñaría un papel clave en la carrera de uno de los entrenadores más exitosos de la historia.</desc>
+    <date>2021</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4243578" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260915233000 +0200" stop="20260916000000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">The Making of Mourinho</title>
+    <sub-title lang="es">La Familia</sub-title>
+    <desc lang="es">Vivimos el segundo episodio del Making Off de José Mourinho, recientemente destituido como técnico del Tottenham.</desc>
+    <date>2021</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4244634" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260916000000 +0200" stop="20260916003000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">The Making of Mourinho: El Mago</title>
+    <sub-title lang="es">El mago</sub-title>
+    <desc lang="es">José Mourinho fue nombrado entrenador del Real Madrid con una complicada misión: detener al FC Barcelona de Pep Guardiola. En abril de 2012, el equipo blanco viajó al Camp Nou para jugar el Clásico sabiendo que sólo una derrota podía impedirles ganar el título de Liga.</desc>
+    <date>2021</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4243580" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260916003000 +0200" stop="20260916004500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Elche - Real Madrid</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2658424H4392066" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260916004500 +0200" stop="20260916010000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Protagonistas DAZN</title>
+    <sub-title lang="es">Iván "Bam Bam" Zamorano</sub-title>
+    <desc lang="es">Charlamos con Iván Zamorano sobre su etapa en el Real Madrid y su mitica camiseta '1+8', la mas vendida de Italia.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M-1752410H4312932" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T25/26</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260916010000 +0200" stop="20260916050000 +0200" channel="DAZN.LALIGA.es">
     <title lang="es">DAZN LaLiga</title>
   </programme>
   <channel id="beIN.SPORTS.1.fr">
@@ -419853,85 +420018,6 @@
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" />
     <lcn>225</lcn>
   </channel>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260912050000 +0000" stop="20260912060000 +0000">
-    <title>National Heads-Up Poker Championship</title>
-    <sub-title>National Heads-Up Poker Championship</sub-title>
-    <desc>Semifinal and Championship Final action featuring poker's biggest names. $500,000 to the champion.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/747c33ca70ba51328fdeff200766309a/images/gracenote/assets/p12281368_b_h8_ab.jpg" />
-    <episode-num system="onscreen">S2026E29</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260912060000 +0000" stop="20260912063000 +0000">
-    <title>Big Ten Football Highlights Factory</title>
-    <sub-title>Big Ten Football Highlights Factory</sub-title>
-    <desc>A weekly, high-energy ride through the most electrifying plays, top teams and star players.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e6edbf10d4b605a48909b99021c12a6b/images/gracenote/assets/p30941540_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S2026E02</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260912063000 +0000" stop="20260912073000 +0000">
-    <title>Premier League Highlights Factory</title>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c0ba3578faade59414263f946b005954/images/gracenote/assets/p33952565_b_h8_aa.jpg" />
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260912073000 +0000" stop="20260912083000 +0000">
-    <title>Premier League Highlights Factory</title>
-    <desc>Watch soccer's biggest stars, iconic clubs and thrilling goals come to life in Premier League Highlights Factory.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/402a5a2516f85bfcdae74376298ed306/images/gracenote/assets/p33785139_b_h10_ac.jpg" />
-    <episode-num system="onscreen">S01E02</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260912083000 +0000" stop="20260912090000 +0000">
-    <title>Big Ten Football Highlights Factory</title>
-    <sub-title>Big Ten Football Highlights Factory</sub-title>
-    <desc>A weekly, high-energy ride through the most electrifying plays, top teams and star players.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e6edbf10d4b605a48909b99021c12a6b/images/gracenote/assets/p30941540_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S2026E02</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260912090000 +0000" stop="20260912100000 +0000">
-    <title>Rushing the Field</title>
-    <desc>With college football insider Nicole Auerback and former Ohio State player Joshua Perry.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ef177d28174db42224dd7ffaf017c5f4/images/gracenote/assets/p30059871_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S02E02</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260912100000 +0000" stop="20260912103000 +0000">
-    <title>Big Ten Football Highlights Factory</title>
-    <sub-title>Big Ten Football Highlights Factory</sub-title>
-    <desc>A weekly, high-energy ride through the most electrifying plays, top teams and star players.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e6edbf10d4b605a48909b99021c12a6b/images/gracenote/assets/p30941540_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S2026E02</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260912103000 +0000" stop="20260912133000 +0000">
-    <title>The Dan Patrick Show</title>
-    <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/images/gracenote/assets/p18691242_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S07E157</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260912133000 +0000" stop="20260912140000 +0000">
-    <title>Big Ten Football Highlights Factory</title>
-    <sub-title>Big Ten Football Highlights Factory</sub-title>
-    <desc>A weekly, high-energy ride through the most electrifying plays, top teams and star players.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e6edbf10d4b605a48909b99021c12a6b/images/gracenote/assets/p30941540_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S2026E02</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260912140000 +0000" stop="20260912150000 +0000">
-    <title>Fanta in 60</title>
-    <desc>John Fanta brings his nonstop energy to the worlds of sports, pop culture, fantasy and betting.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d36a9b2ae5c8ba48052dd732e5423897/images/gracenote/assets/p33808297_b_h10_ac.jpg" />
-    <episode-num system="onscreen">S2026E02</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260912150000 +0000" stop="20260912160000 +0000">
-    <title>Rushing the Field</title>
-    <desc>With college football insider Nicole Auerback and former Ohio State player Joshua Perry.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ef177d28174db42224dd7ffaf017c5f4/images/gracenote/assets/p30059871_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S02E02</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260912160000 +0000" stop="20260912170000 +0000">
-    <title>National Heads-Up Poker Championship</title>
-    <sub-title>National Heads-Up Poker Championship</sub-title>
-    <desc>Round of 16 action featuring poker's biggest names. Winners advance to the Quarterfinals.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/747c33ca70ba51328fdeff200766309a/images/gracenote/assets/p12281368_b_h8_ab.jpg" />
-    <episode-num system="onscreen">S2026E27</episode-num>
-    <rating system="USA Parental Rating">TV14</rating>
-  </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260912170000 +0000" stop="20260912180000 +0000">
     <title>National Heads-Up Poker Championship</title>
     <sub-title>National Heads-Up Poker Championship</sub-title>
@@ -419982,13 +420068,6 @@
     <desc>An unfiltered look at the NFL, with player access and stories from a life in and around football.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/82a87e1327c753a189e12632b49258eb/images/gracenote/assets/p18991697_b_h10_ab.jpg" />
     <episode-num system="onscreen">S07E65</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260913043000 +0000" stop="20260913063000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S14E169</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260913043000 +0000" stop="20260913063000 +0000">
@@ -420092,12 +420171,6 @@
     <episode-num system="onscreen">S2026E16</episode-num>
   </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260913220000 +0000" stop="20260914000000 +0000">
-    <title>The National Dog Show</title>
-    <desc>More than 2,000 purebred dogs vie to be named Best in Show at the annual event.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/77dfda6737c55c338ddeeb9d2252a69a/images/gracenote/assets/p22906063_b_h8_aa.jpg" />
-    <rating system="USA Parental Rating">TVPG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260914000000 +0000" stop="20260914060000 +0000">
     <title>The National Dog Show</title>
     <desc>More than 2,000 purebred dogs vie to be named Best in Show at the annual event.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/77dfda6737c55c338ddeeb9d2252a69a/images/gracenote/assets/p22906063_b_h8_aa.jpg" />
@@ -420221,5 +420294,63 @@
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
     <episode-num system="onscreen">S14E170</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260915060000 +0000" stop="20260915070000 +0000">
+    <title>Fanta in 60</title>
+    <desc>John Fanta brings his nonstop energy to the worlds of sports, pop culture, fantasy and betting.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d36a9b2ae5c8ba48052dd732e5423897/images/gracenote/assets/p33808297_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E03</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260915070000 +0000" stop="20260915073000 +0000">
+    <title>Big Ten Football Highlights Factory</title>
+    <sub-title>Big Ten Football Highlights Factory</sub-title>
+    <desc>A weekly, high-energy ride through the most electrifying plays, top teams and star players.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e6edbf10d4b605a48909b99021c12a6b/images/gracenote/assets/p30941540_b_h10_aa.jpg" />
+    <episode-num system="onscreen">S2026E03</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260915073000 +0000" stop="20260915080000 +0000">
+    <title>FNIA Overtime</title>
+    <desc>Maria Taylor, Mike Tomlin, Devin McCourty, Jason Garrett and Mike Florio recap the NFL's storylines.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bbe829a5faf091980a3a4468bc262cc7/images/gracenote/assets/p34024473_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S01E01</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260915080000 +0000" stop="20260915090000 +0000">
+    <title>Not So Fast With Pabst &amp; Perloff</title>
+    <desc>Paul Pabst and Andrew Perloff challenge each other on the biggest sports topics of the day.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5d0336e00d7e5fa0737eeb2ec0ae2542/images/gracenote/assets/p33807983_b_h8_aa.jpg" />
+    <episode-num system="onscreen">S2026E10</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260915090000 +0000" stop="20260915100000 +0000">
+    <title>Fanta in 60</title>
+    <desc>John Fanta brings his nonstop energy to the worlds of sports, pop culture, fantasy and betting.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d36a9b2ae5c8ba48052dd732e5423897/images/gracenote/assets/p33808297_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S2026E03</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260915100000 +0000" stop="20260915110000 +0000">
+    <title>Chris Simms Unbuttoned</title>
+    <desc>An unfiltered look at the NFL, with player access and stories from a life in and around football.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/82a87e1327c753a189e12632b49258eb/images/gracenote/assets/p18991697_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S07E66</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260915110000 +0000" stop="20260915130000 +0000">
+    <title>PFT Live</title>
+    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
+    <episode-num system="onscreen">S14E171</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260915130000 +0000" stop="20260915160000 +0000">
+    <title>The Dan Patrick Show</title>
+    <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/images/gracenote/assets/p18691242_b_h8_aa.jpg" />
+    <episode-num system="onscreen">S07E159</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260915160000 +0000" stop="20260915170000 +0000">
+    <title>Not So Fast With Pabst &amp; Perloff</title>
+    <desc>Paul Pabst and Andrew Perloff challenge each other on the biggest sports topics of the day.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5d0336e00d7e5fa0737eeb2ec0ae2542/images/gracenote/assets/p33807983_b_h8_aa.jpg" />
+    <episode-num system="onscreen">S2026E11</episode-num>
   </programme>
   <channel id="Ice.Hockey.Dummy.us"><display-name lang="en">Ice Hockey</display-name></channel><programme start="20260911000000 +0000" stop="20260911010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911010000 +0000" stop="20260911020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911020000 +0000" stop="20260911030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911030000 +0000" stop="20260911040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911040000 +0000" stop="20260911050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911050000 +0000" stop="20260911060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911060000 +0000" stop="20260911070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911070000 +0000" stop="20260911080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911080000 +0000" stop="20260911090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911090000 +0000" stop="20260911100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911100000 +0000" stop="20260911110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911110000 +0000" stop="20260911120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911120000 +0000" stop="20260911130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911130000 +0000" stop="20260911140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911140000 +0000" stop="20260911150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911150000 +0000" stop="20260911160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911160000 +0000" stop="20260911170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911170000 +0000" stop="20260911180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911180000 +0000" stop="20260911190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911190000 +0000" stop="20260911200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911200000 +0000" stop="20260911210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911210000 +0000" stop="20260911220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911220000 +0000" stop="20260911230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260911230000 +0000" stop="20260911235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912000000 +0000" stop="20260912010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912010000 +0000" stop="20260912020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912020000 +0000" stop="20260912030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912030000 +0000" stop="20260912040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912040000 +0000" stop="20260912050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912050000 +0000" stop="20260912060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912060000 +0000" stop="20260912070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912070000 +0000" stop="20260912080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912080000 +0000" stop="20260912090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912090000 +0000" stop="20260912100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912100000 +0000" stop="20260912110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912110000 +0000" stop="20260912120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912120000 +0000" stop="20260912130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912130000 +0000" stop="20260912140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912140000 +0000" stop="20260912150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912160000 +0000" stop="20260912170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912170000 +0000" stop="20260912180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912180000 +0000" stop="20260912190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912190000 +0000" stop="20260912200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912200000 +0000" stop="20260912210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912210000 +0000" stop="20260912220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912220000 +0000" stop="20260912230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260912230000 +0000" stop="20260912235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913000000 +0000" stop="20260913010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913010000 +0000" stop="20260913020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913020000 +0000" stop="20260913030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913030000 +0000" stop="20260913040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913040000 +0000" stop="20260913050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913050000 +0000" stop="20260913060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913060000 +0000" stop="20260913070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913070000 +0000" stop="20260913080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913080000 +0000" stop="20260913090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913090000 +0000" stop="20260913100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913100000 +0000" stop="20260913110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913110000 +0000" stop="20260913120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913120000 +0000" stop="20260913130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913130000 +0000" stop="20260913140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913140000 +0000" stop="20260913150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913150000 +0000" stop="20260913160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913160000 +0000" stop="20260913170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913170000 +0000" stop="20260913180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913190000 +0000" stop="20260913200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913200000 +0000" stop="20260913210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913210000 +0000" stop="20260913220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913220000 +0000" stop="20260913230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260913230000 +0000" stop="20260913235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914000000 +0000" stop="20260914010000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914010000 +0000" stop="20260914020000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914020000 +0000" stop="20260914030000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914030000 +0000" stop="20260914040000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914040000 +0000" stop="20260914050000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914050000 +0000" stop="20260914060000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914060000 +0000" stop="20260914070000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914070000 +0000" stop="20260914080000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914080000 +0000" stop="20260914090000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914090000 +0000" stop="20260914100000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914100000 +0000" stop="20260914110000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914110000 +0000" stop="20260914120000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914120000 +0000" stop="20260914130000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914130000 +0000" stop="20260914140000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914140000 +0000" stop="20260914150000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914150000 +0000" stop="20260914160000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914160000 +0000" stop="20260914170000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914170000 +0000" stop="20260914180000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914180000 +0000" stop="20260914190000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914190000 +0000" stop="20260914200000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914200000 +0000" stop="20260914210000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914210000 +0000" stop="20260914220000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914220000 +0000" stop="20260914230000 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><programme start="20260914230000 +0000" stop="20260914235900 +0000" channel="Ice.Hockey.Dummy.us"><title lang="en">Ice Hockey</title><desc lang="en">Ice Hockey</desc></programme><channel id="NCAA.Sports.Dummy.us"><display-name lang="en">NCAA Sports</display-name></channel><programme start="20260911000000 +0000" stop="20260911010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911010000 +0000" stop="20260911020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911020000 +0000" stop="20260911030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911030000 +0000" stop="20260911040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911040000 +0000" stop="20260911050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911050000 +0000" stop="20260911060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911060000 +0000" stop="20260911070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911070000 +0000" stop="20260911080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911080000 +0000" stop="20260911090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911090000 +0000" stop="20260911100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911100000 +0000" stop="20260911110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911110000 +0000" stop="20260911120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911120000 +0000" stop="20260911130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911130000 +0000" stop="20260911140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911140000 +0000" stop="20260911150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911150000 +0000" stop="20260911160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911160000 +0000" stop="20260911170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911170000 +0000" stop="20260911180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911180000 +0000" stop="20260911190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911190000 +0000" stop="20260911200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911200000 +0000" stop="20260911210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911210000 +0000" stop="20260911220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911220000 +0000" stop="20260911230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260911230000 +0000" stop="20260911235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912000000 +0000" stop="20260912010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912010000 +0000" stop="20260912020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912020000 +0000" stop="20260912030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912030000 +0000" stop="20260912040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912040000 +0000" stop="20260912050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912050000 +0000" stop="20260912060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912060000 +0000" stop="20260912070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912070000 +0000" stop="20260912080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912080000 +0000" stop="20260912090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912090000 +0000" stop="20260912100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912100000 +0000" stop="20260912110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912110000 +0000" stop="20260912120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912120000 +0000" stop="20260912130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912130000 +0000" stop="20260912140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912140000 +0000" stop="20260912150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912160000 +0000" stop="20260912170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912170000 +0000" stop="20260912180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912180000 +0000" stop="20260912190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912190000 +0000" stop="20260912200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912200000 +0000" stop="20260912210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912210000 +0000" stop="20260912220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912220000 +0000" stop="20260912230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260912230000 +0000" stop="20260912235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913000000 +0000" stop="20260913010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913010000 +0000" stop="20260913020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913020000 +0000" stop="20260913030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913030000 +0000" stop="20260913040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913040000 +0000" stop="20260913050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913050000 +0000" stop="20260913060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913060000 +0000" stop="20260913070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913070000 +0000" stop="20260913080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913080000 +0000" stop="20260913090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913090000 +0000" stop="20260913100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913100000 +0000" stop="20260913110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913110000 +0000" stop="20260913120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913120000 +0000" stop="20260913130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913130000 +0000" stop="20260913140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913140000 +0000" stop="20260913150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913150000 +0000" stop="20260913160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913160000 +0000" stop="20260913170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913170000 +0000" stop="20260913180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913190000 +0000" stop="20260913200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913200000 +0000" stop="20260913210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913210000 +0000" stop="20260913220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913220000 +0000" stop="20260913230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260913230000 +0000" stop="20260913235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914000000 +0000" stop="20260914010000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914010000 +0000" stop="20260914020000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914020000 +0000" stop="20260914030000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914030000 +0000" stop="20260914040000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914040000 +0000" stop="20260914050000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914050000 +0000" stop="20260914060000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914060000 +0000" stop="20260914070000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914070000 +0000" stop="20260914080000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914080000 +0000" stop="20260914090000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914090000 +0000" stop="20260914100000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914100000 +0000" stop="20260914110000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914110000 +0000" stop="20260914120000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914120000 +0000" stop="20260914130000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914130000 +0000" stop="20260914140000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914140000 +0000" stop="20260914150000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914150000 +0000" stop="20260914160000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914160000 +0000" stop="20260914170000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914170000 +0000" stop="20260914180000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914180000 +0000" stop="20260914190000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914190000 +0000" stop="20260914200000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914200000 +0000" stop="20260914210000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914210000 +0000" stop="20260914220000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914220000 +0000" stop="20260914230000 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><programme start="20260914230000 +0000" stop="20260914235900 +0000" channel="NCAA.Sports.Dummy.us"><title lang="en">NCAA Sports</title><desc lang="en">NCAA Sports</desc></programme><channel id="UFC.Dummy.us"><display-name lang="en">UFC</display-name></channel><programme start="20260911000000 +0000" stop="20260911010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911010000 +0000" stop="20260911020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911020000 +0000" stop="20260911030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911030000 +0000" stop="20260911040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911040000 +0000" stop="20260911050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911050000 +0000" stop="20260911060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911060000 +0000" stop="20260911070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911070000 +0000" stop="20260911080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911080000 +0000" stop="20260911090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911090000 +0000" stop="20260911100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911100000 +0000" stop="20260911110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911110000 +0000" stop="20260911120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911120000 +0000" stop="20260911130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911130000 +0000" stop="20260911140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911140000 +0000" stop="20260911150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911150000 +0000" stop="20260911160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911160000 +0000" stop="20260911170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911170000 +0000" stop="20260911180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911180000 +0000" stop="20260911190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911190000 +0000" stop="20260911200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911200000 +0000" stop="20260911210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911210000 +0000" stop="20260911220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911220000 +0000" stop="20260911230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260911230000 +0000" stop="20260911235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912000000 +0000" stop="20260912010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912010000 +0000" stop="20260912020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912020000 +0000" stop="20260912030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912030000 +0000" stop="20260912040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912040000 +0000" stop="20260912050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912050000 +0000" stop="20260912060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912060000 +0000" stop="20260912070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912070000 +0000" stop="20260912080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912080000 +0000" stop="20260912090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912090000 +0000" stop="20260912100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912100000 +0000" stop="20260912110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912110000 +0000" stop="20260912120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912120000 +0000" stop="20260912130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912130000 +0000" stop="20260912140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912140000 +0000" stop="20260912150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912160000 +0000" stop="20260912170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912170000 +0000" stop="20260912180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912180000 +0000" stop="20260912190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912190000 +0000" stop="20260912200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912200000 +0000" stop="20260912210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912210000 +0000" stop="20260912220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912220000 +0000" stop="20260912230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260912230000 +0000" stop="20260912235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913000000 +0000" stop="20260913010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913010000 +0000" stop="20260913020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913020000 +0000" stop="20260913030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913030000 +0000" stop="20260913040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913040000 +0000" stop="20260913050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913050000 +0000" stop="20260913060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913060000 +0000" stop="20260913070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913070000 +0000" stop="20260913080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913080000 +0000" stop="20260913090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913090000 +0000" stop="20260913100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913100000 +0000" stop="20260913110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913110000 +0000" stop="20260913120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913120000 +0000" stop="20260913130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913130000 +0000" stop="20260913140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913140000 +0000" stop="20260913150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913150000 +0000" stop="20260913160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913160000 +0000" stop="20260913170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913170000 +0000" stop="20260913180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913190000 +0000" stop="20260913200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913200000 +0000" stop="20260913210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913210000 +0000" stop="20260913220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913220000 +0000" stop="20260913230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260913230000 +0000" stop="20260913235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914000000 +0000" stop="20260914010000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914010000 +0000" stop="20260914020000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914020000 +0000" stop="20260914030000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914030000 +0000" stop="20260914040000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914040000 +0000" stop="20260914050000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914050000 +0000" stop="20260914060000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914060000 +0000" stop="20260914070000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914070000 +0000" stop="20260914080000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914080000 +0000" stop="20260914090000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914090000 +0000" stop="20260914100000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914100000 +0000" stop="20260914110000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914110000 +0000" stop="20260914120000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914120000 +0000" stop="20260914130000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914130000 +0000" stop="20260914140000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914140000 +0000" stop="20260914150000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914150000 +0000" stop="20260914160000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914160000 +0000" stop="20260914170000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914170000 +0000" stop="20260914180000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914180000 +0000" stop="20260914190000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914190000 +0000" stop="20260914200000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914200000 +0000" stop="20260914210000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914210000 +0000" stop="20260914220000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914220000 +0000" stop="20260914230000 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme><programme start="20260914230000 +0000" stop="20260914235900 +0000" channel="UFC.Dummy.us"><title lang="en">UFC</title><desc lang="en">UFC</desc></programme></tv>
