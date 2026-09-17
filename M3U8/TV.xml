@@ -9907,496 +9907,6 @@
     <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s131810_dark_360w_270h.png" />
     <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s131810_dark_360w_270h.png" />
     </channel>
-  <programme start="20260915090000 +0200" stop="20260915120000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
-  <programme start="20260915120000 +0200" stop="20260915140000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">LALIGA EA SPORTS: RC Celta - Málaga CF</title>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656525H4345839" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260915140000 +0200" stop="20260915151500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">El Post de DAZN</title>
-    <sub-title lang="es">Programa 3</sub-title>
-    <desc lang="es">La jornada de LaLiga no termina con el pitido final del último partido. Presentado por Miguel Quintana y acompañado por todo el equipo de comentaristas de DAZN, este es el programa perfecto para enterarte de todo lo que ha sucedido en cada partido.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656536H4392029" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T26/27</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260915151500 +0200" stop="20260915171500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">LALIGA EA SPORTS: Sevilla FC - Valencia CF</title>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2654135H4345832" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260915171500 +0200" stop="20260915184500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">La Dazoneta</title>
-    <sub-title lang="es">Programa 5</sub-title>
-    <desc lang="es">Un vistazo a la actualidad  futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656929H4392031" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T2</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260915184500 +0200" stop="20260915190000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes LALIGA HyperMotion: RC Celta B - SD Eibar</title>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2658149H4361321" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260915190000 +0200" stop="20260915191500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Villarreal - Betis</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656931H4392045" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260915191500 +0200" stop="20260915193000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Athletic - Elche</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2655583H4392042" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260915193000 +0200" stop="20260915194500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Levante - Barcelona</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656529H4392043" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260915194500 +0200" stop="20260915223000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">LALIGA EA SPORTS: Deportivo Alavés - Valencia CF</title>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2657576H4345829" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260915223000 +0200" stop="20260915224500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Rayo - Espanyol</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2657577H4392065" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260915224500 +0200" stop="20260915230000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Real Sociedad - Celta</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2647581H4384761" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260915230000 +0200" stop="20260915233000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">The Making of Mourinho: El Comienzo</title>
-    <sub-title lang="es">El comienzo</sub-title>
-    <desc lang="es">En 2003, El Manchester United de Sir Alex Ferguson recibió en Old Trafford al Oporto de José Mourinho en un tenso partido de octavos de final de la UEFA Champions League. Un encuentro que desempeñaría un papel clave en la carrera de uno de los entrenadores más exitosos de la historia.</desc>
-    <date>2021</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4243578" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260915233000 +0200" stop="20260916000000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">The Making of Mourinho</title>
-    <sub-title lang="es">La Familia</sub-title>
-    <desc lang="es">Vivimos el segundo episodio del Making Off de José Mourinho, recientemente destituido como técnico del Tottenham.</desc>
-    <date>2021</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4244634" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260916000000 +0200" stop="20260916003000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">The Making of Mourinho: El Mago</title>
-    <sub-title lang="es">El mago</sub-title>
-    <desc lang="es">José Mourinho fue nombrado entrenador del Real Madrid con una complicada misión: detener al FC Barcelona de Pep Guardiola. En abril de 2012, el equipo blanco viajó al Camp Nou para jugar el Clásico sabiendo que sólo una derrota podía impedirles ganar el título de Liga.</desc>
-    <date>2021</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4243580" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260916003000 +0200" stop="20260916004500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Elche - Real Madrid</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2658424H4392066" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260916004500 +0200" stop="20260916010000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Protagonistas DAZN</title>
-    <sub-title lang="es">Iván "Bam Bam" Zamorano</sub-title>
-    <desc lang="es">Charlamos con Iván Zamorano sobre su etapa en el Real Madrid y su mitica camiseta '1+8', la mas vendida de Italia.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M-1752410H4312932" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T25/26</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260916010000 +0200" stop="20260916050000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
-  <programme start="20260916050000 +0200" stop="20260916090000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
-  <programme start="20260916090000 +0200" stop="20260916120000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
-  <programme start="20260916120000 +0200" stop="20260916140000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">LALIGA EA SPORTS: Deportivo Alavés - Valencia CF</title>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2657576H4345829" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260916140000 +0200" stop="20260916143000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">The Making of Mourinho: El Comienzo</title>
-    <sub-title lang="es">El comienzo</sub-title>
-    <desc lang="es">En 2003, El Manchester United de Sir Alex Ferguson recibió en Old Trafford al Oporto de José Mourinho en un tenso partido de octavos de final de la UEFA Champions League. Un encuentro que desempeñaría un papel clave en la carrera de uno de los entrenadores más exitosos de la historia.</desc>
-    <date>2021</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4243578" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260916143000 +0200" stop="20260916150000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">The Making of Mourinho</title>
-    <sub-title lang="es">La Familia</sub-title>
-    <desc lang="es">Vivimos el segundo episodio del Making Off de José Mourinho, recientemente destituido como técnico del Tottenham.</desc>
-    <date>2021</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4244634" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260916150000 +0200" stop="20260916153000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">The Making of Mourinho: El Mago</title>
-    <sub-title lang="es">El mago</sub-title>
-    <desc lang="es">José Mourinho fue nombrado entrenador del Real Madrid con una complicada misión: detener al FC Barcelona de Pep Guardiola. En abril de 2012, el equipo blanco viajó al Camp Nou para jugar el Clásico sabiendo que sólo una derrota podía impedirles ganar el título de Liga.</desc>
-    <date>2021</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4243580" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260916153000 +0200" stop="20260916173000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">LALIGA EA SPORTS: Real Sociedad - Atlético de Madrid</title>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656533H4345833" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260916173000 +0200" stop="20260916180000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Simeone. Revelado</title>
-    <desc lang="es">El entrenador argentino del Atlético de Madrid se ha convertido en una pieza clave para plantar batalla al Real Madrid y FC Barcelona. Descubre su lado más personal en esta entrevista con DAZN.</desc>
-    <date>2025</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2564369H4091587" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260916180000 +0200" stop="20260916181500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Premier Corner by Guiness 0,0</title>
-    <sub-title lang="es">Martín Zubimendi</sub-title>
-    <desc lang="es">El recién llegado al Arsenal y ex de la Real Sociedad, Martín Zubimendi, repasa su trayectoria con Eneko en esta nueva edición de Premier Corner.</desc>
-    <date>2025</date>
-    <category lang="es">Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4361498" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T2025</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260916181500 +0200" stop="20260916191500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Decoded</title>
-    <sub-title lang="es">Lamine Yamal</sub-title>
-    <desc lang="es">Una nueva entrega de Decoded en la que el programa analiza a Lamine Yamal, el joven futbolista del FC Barcelona que está llamado a marcar una época en el fútbol mundial.</desc>
-    <date>2025</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2230832H3960528" />
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260916191500 +0200" stop="20260916203000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">El Post de DAZN</title>
-    <sub-title lang="es">Programa 3</sub-title>
-    <desc lang="es">La jornada de LaLiga no termina con el pitido final del último partido. Presentado por Miguel Quintana y acompañado por todo el equipo de comentaristas de DAZN, este es el programa perfecto para enterarte de todo lo que ha sucedido en cada partido.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2656536H4392029" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">T26/27</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260916203000 +0200" stop="20260917000000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">LALIGA EA SPORTS: FC Barcelona - R. Racing Club</title>
-    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2658418H4345824" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260917000000 +0200" stop="20260917001500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Atlético de Madrid - Osasuna</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2658419H4392067" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260917001500 +0200" stop="20260917003000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Elche - Real Madrid</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2658424H4392066" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260917003000 +0200" stop="20260917004500 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Levante - Athletic</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2658421H4392068" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260917004500 +0200" stop="20260917010000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Real Sociedad - Celta</title>
-    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
-    <date>2026</date>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2647581H4384761" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260917010000 +0200" stop="20260917050000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
-  <programme start="20260917050000 +0200" stop="20260917090000 +0200" channel="DAZN.LALIGA.es">
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
   <programme start="20260917090000 +0200" stop="20260917120000 +0200" channel="DAZN.LALIGA.es">
     <title lang="es">DAZN LaLiga</title>
   </programme>
@@ -10405,7 +9915,7 @@
     <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
     <date>2026</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2659486H4345826" />
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2658425H4345826" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -10487,7 +9997,7 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
     <star-rating system="ES">
-      <value>6.0/10</value>
+      <value>8.0/10</value>
     </star-rating>
   </programme>
   <programme start="20260917170000 +0200" stop="20260917184500 +0200" channel="DAZN.LALIGA.es">
@@ -10713,7 +10223,7 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
     <star-rating system="ES">
-      <value>6.0/10</value>
+      <value>8.0/10</value>
     </star-rating>
   </programme>
   <programme start="20260918204500 +0200" stop="20260918233000 +0200" channel="DAZN.LALIGA.es">
@@ -10746,6 +10256,541 @@
     </rating>
   </programme>
   <programme start="20260919011500 +0200" stop="20260919051500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20260919051500 +0200" stop="20260919091500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20260919091500 +0200" stop="20260919120000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20260919120000 +0200" stop="20260919140000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">LALIGA EA SPORTS: At. Madrid - Real Madrid</title>
+    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
+    <date>2025</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2377456H4068275" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260919140000 +0200" stop="20260919154500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">La Dazoneta</title>
+    <sub-title lang="es">Especial derbi Madrid</sub-title>
+    <desc lang="es">Un vistazo a la actualidad  futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660968H4399683" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20260919154500 +0200" stop="20260919184500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">LALIGA EA SPORTS: Athletic Club - Deportivo Alavés</title>
+    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2661234H4345817" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260919184500 +0200" stop="20260919191500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Masterclass</title>
+    <sub-title lang="es">Nico Williams</sub-title>
+    <desc lang="es">Nico Williams, el talentoso extremo del Athletic Club, es el primer jugador en pasar por nuestro 'Masterclass' y analizarnos sus goles y habilidades con el balón.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2489334H4214462" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260919191500 +0200" stop="20260919193000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Osasuna - Rayo</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2661236H4396093" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260919193000 +0200" stop="20260919200000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Dorsal 12</title>
+    <sub-title lang="es">Historias de Barrio</sub-title>
+    <desc lang="es">Rafa Escrig recorre el barrio de Vallecas para mostrarnos la enorme influencia que tiene el Rayo en la vida de los habitantes del barrio. No te pierdas esta nueva entrega de Dorsal Doce.</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2661250H3172155" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T23/24</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260919200000 +0200" stop="20260919201500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes LALIGA HyperMotion: Andorra - Sporting</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <date>2025</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2505444H4071783" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260919201500 +0200" stop="20260919203000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes LALIGA HyperMotion</title>
+    <sub-title lang="es">Real Sociedad B - Mallorca</sub-title>
+    <desc lang="es">Tras la disputa de los encuentros, es tiempo para el análisis. Este espacio desmenuza los partidos con las mejores imágenes, intenta esclarecer las polémicas y da la palabra a los que han sido los protagonistas sobre el césped.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2661238H4396117" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T26/27</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260919203000 +0200" stop="20260919211500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Dorsal 12</title>
+    <sub-title lang="es">Un demonio irllandés en Mallorca</sub-title>
+    <desc lang="es">''Dorsal 12'' es una excusa para contar la vida a través del fútbol. Un programa que no se centra en el balón, sino en lo que le rodea. Rafael Escrig viaja por los estadios de LaLiga para contar las historias humanas más impactantes del fútbol español.</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2661252H3126042" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T23/24</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260919211500 +0200" stop="20260919214500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Masterclass</title>
+    <sub-title lang="es">Borja Iglesias</sub-title>
+    <desc lang="es">Borja Iglesias, el carismático delantero del RC Celta, es el cuarto jugador en pasar por nuestro 'Masterclass'. En DAZN analizamos sus mejores goles y habilidades con el balón. ¡No te lo pierdas!</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2647579H4387873" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260919214500 +0200" stop="20260919220000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Celta - Racing</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2661240H4396091" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260919220000 +0200" stop="20260919221500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes LALIGA HyperMotion: CD Castellón - CD Tenerife</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2658149H4361332" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260919221500 +0200" stop="20260919223000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes LALIGA HyperMotion</title>
+    <sub-title lang="es">Eldense - Eibar</sub-title>
+    <desc lang="es">Tras la disputa de los encuentros, es tiempo para el análisis. Este espacio desmenuza los partidos con las mejores imágenes, intenta esclarecer las polémicas y da la palabra a los que han sido los protagonistas sobre el césped.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2661244H4396115" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T26/27</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20260919223000 +0200" stop="20260919233000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Decoded</title>
+    <sub-title lang="es">Lamine Yamal</sub-title>
+    <desc lang="es">Una nueva entrega de Decoded en la que el programa analiza a Lamine Yamal, el joven futbolista del FC Barcelona que está llamado a marcar una época en el fútbol mundial.</desc>
+    <date>2025</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2230832H3960528" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260919233000 +0200" stop="20260920000000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">OR7GEN</title>
+    <sub-title lang="es">Gen La Masía</sub-title>
+    <desc lang="es">Origen es una serie de cuatro capítulos en la que David Villa viaja a cuatro de las ciudades que más le han marcado en su carrera futbolística: Barcelona, Madrid, Valencia y Gijón. Pero el delantero no realiza este camino solo y cuenta con compañeros de auténtico lujo durante los capítulos. ¡No te lo pierdas!</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4242920" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260920000000 +0200" stop="20260920001500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Sevilla - Barcelona</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2662076H4396071" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260920001500 +0200" stop="20260920004500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Come On Fútbol!</title>
+    <sub-title lang="es">Dani Olmo, el fútbol como arma de paz</sub-title>
+    <desc lang="es">Nos adentramos de lleno en la vida de Dani Olmo, un futbolista comprometido con las causas sociales. El atacante español es integrante activo de la iniciativa 'Common Goal', una organización que se centra en ayudar a los afectados por las consecuencias de la guerra en los Balcanes. Su compromiso para mejorar el mundo es total.</desc>
+    <date>2023</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M1820685H3105262" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260920004500 +0200" stop="20260920010000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes LALIGA HyperMotion</title>
+    <sub-title lang="es">Cádiz - Girona</sub-title>
+    <desc lang="es">Tras la disputa de los encuentros, es tiempo para el análisis. Este espacio desmenuza los partidos con las mejores imágenes, intenta esclarecer las polémicas y da la palabra a los que han sido los protagonistas sobre el césped.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2661248H4396113" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T26/27</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260920010000 +0200" stop="20260920050000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20260920050000 +0200" stop="20260920090000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20260920090000 +0200" stop="20260920120000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20260920120000 +0200" stop="20260920121500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Elche - Real Madrid</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2658424H4392066" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260920121500 +0200" stop="20260920140000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">La Dazoneta</title>
+    <sub-title lang="es">Especial derbi Madrid</sub-title>
+    <desc lang="es">Un vistazo a la actualidad  futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2660968H4399683" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20260920140000 +0200" stop="20260920191500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">LALIGA EA SPORTS: Atlético de Madrid - Real Madrid</title>
+    <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2661232H4345816" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260920191500 +0200" stop="20260920194500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">The Making of Mourinho: El Comienzo</title>
+    <sub-title lang="es">El comienzo</sub-title>
+    <desc lang="es">En 2003, El Manchester United de Sir Alex Ferguson recibió en Old Trafford al Oporto de José Mourinho en un tenso partido de octavos de final de la UEFA Champions League. Un encuentro que desempeñaría un papel clave en la carrera de uno de los entrenadores más exitosos de la historia.</desc>
+    <date>2021</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4243578" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260920194500 +0200" stop="20260920201500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">The Making of Mourinho</title>
+    <sub-title lang="es">La Familia</sub-title>
+    <desc lang="es">Vivimos el segundo episodio del Making Off de José Mourinho, recientemente destituido como técnico del Tottenham.</desc>
+    <date>2021</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4244634" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260920201500 +0200" stop="20260920204500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">The Making of Mourinho: El Mago</title>
+    <sub-title lang="es">El mago</sub-title>
+    <desc lang="es">José Mourinho fue nombrado entrenador del Real Madrid con una complicada misión: detener al FC Barcelona de Pep Guardiola. En abril de 2012, el equipo blanco viajó al Camp Nou para jugar el Clásico sabiendo que sólo una derrota podía impedirles ganar el título de Liga.</desc>
+    <date>2021</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4243580" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260920204500 +0200" stop="20260920210000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes LALIGA HyperMotion: CE Sabadell - Real Oviedo</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2658149H4361337" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260920210000 +0200" stop="20260920221500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">El Arquitecto. Del mito al desafío</title>
+    <desc lang="es">Análisis en profundidad sobre la figura de Xabi Alonso, el entrenador del Real Madrid CF y actualmente en el centro de todas las miradas. El documental contrapone su etapa gloriosa como futbolista con sus éxitos iniciales como entrenador en el Bayer Leverkusen.</desc>
+    <credits>
+      <director>Iván Fanlo</director>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/F4451580" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260920221500 +0200" stop="20260920223000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Villarreal - Levante</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2662061H4399696" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260920223000 +0200" stop="20260920224500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes LALIGA HyperMotion: UD Almería - RC Celta B</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2658149H4361329" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260920224500 +0200" stop="20260920230000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes LALIGA HyperMotion: Ceuta FC - Real Valldolid CF</title>
+    <desc lang="es">Tras la disputa de los encuentros, es tiempo para el análisis. Este espacio desmenuza los partidos con las mejores imágenes, intenta esclarecer las polémicas y da la palabra a los que han sido los protagonistas sobre el césped.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2658149H4396109" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260920230000 +0200" stop="20260921001500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">El Post de DAZN</title>
+    <sub-title lang="es">Programa 4</sub-title>
+    <desc lang="es">La jornada de LaLiga no termina con el pitido final del último partido. Presentado por Miguel Quintana y acompañado por todo el equipo de comentaristas de DAZN, este es el programa perfecto para enterarte de todo lo que ha sucedido en cada partido.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2662067H4396806" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">T26/27</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260921001500 +0200" stop="20260921003000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes DAZN LaLiga EA Sports: Valencia - Real Sociedad</title>
+    <desc lang="es">Resumen con lo más destacado de cada uno de los partidos de Primera División.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2662069H4396811" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260921003000 +0200" stop="20260921004500 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes LALIGA HyperMotion: CD Leganés - Granada CF</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2658149H4361334" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260921004500 +0200" stop="20260921010000 +0200" channel="DAZN.LALIGA.es">
+    <title lang="es">Resúmenes LALIGA HyperMotion: UD Las Palmas - Burgos</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <date>2026</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2658149H4361335" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260921010000 +0200" stop="20260921050000 +0200" channel="DAZN.LALIGA.es">
     <title lang="es">DAZN LaLiga</title>
   </programme>
   <channel id="beIN.SPORTS.1.fr">
@@ -428464,73 +428509,6 @@
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" />
     <lcn>802</lcn>
   </channel>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260917040000 +0000" stop="20260917060000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S14E172</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260917060000 +0000" stop="20260917063000 +0000">
-    <title>MLB According to CC</title>
-    <desc>CC Sabathia's thoughtful and entertaining insights into the world of Major League Baseball.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/196f40e6a4d685e540e0af17cb630061/images/gracenote/assets/p32854143_b_h8_ab.jpg" />
-    <episode-num system="onscreen">S01E23</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260917063000 +0000" stop="20260917070000 +0000">
-    <title>FNIA Overtime</title>
-    <desc>Maria Taylor, Mike Tomlin, Devin McCourty, Jason Garrett and Mike Florio recap the NFL's storylines.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bbe829a5faf091980a3a4468bc262cc7/images/gracenote/assets/p34024473_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S01E01</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260917070000 +0000" stop="20260917080000 +0000">
-    <title>Fanta in 60</title>
-    <desc>John Fanta brings his nonstop energy to the worlds of sports, pop culture, fantasy and betting.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d36a9b2ae5c8ba48052dd732e5423897/images/gracenote/assets/p33808297_b_h10_ac.jpg" />
-    <episode-num system="onscreen">S2026E03</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260917080000 +0000" stop="20260917100000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S14E172</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260917100000 +0000" stop="20260917110000 +0000">
-    <title>Chris Simms Unbuttoned</title>
-    <desc>An unfiltered look at the NFL, with player access and stories from a life in and around football.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/82a87e1327c753a189e12632b49258eb/images/gracenote/assets/p18991697_b_h10_ab.jpg" />
-    <episode-num system="onscreen">S07E68</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260917110000 +0000" stop="20260917130000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S14E173</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260917130000 +0000" stop="20260917160000 +0000">
-    <title>The Dan Patrick Show</title>
-    <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/images/gracenote/assets/p18691242_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S07E161</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260917160000 +0000" stop="20260917170000 +0000">
-    <title>Not So Fast With Pabst &amp; Perloff</title>
-    <desc>Paul Pabst and Andrew Perloff challenge each other on the biggest sports topics of the day.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5d0336e00d7e5fa0737eeb2ec0ae2542/images/gracenote/assets/p33807983_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S2026E13</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260917170000 +0000" stop="20260917200000 +0000">
-    <title>The Dan Le Batard Show</title>
-    <desc>Dan Le Batard and the gang share their unique perspectives on sports, pop-culture and more.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/939412f17b4056ff53450f68ec4a09c2/images/gracenote/assets/p33404900_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S2026E64</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260917200000 +0000" stop="20260917210000 +0000">
     <title>Chris Simms Unbuttoned</title>
     <desc>An unfiltered look at the NFL, with player access and stories from a life in and around football.</desc>
@@ -428576,13 +428554,6 @@
     <desc>Paul Pabst and Andrew Perloff challenge each other on the biggest sports topics of the day.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5d0336e00d7e5fa0737eeb2ec0ae2542/images/gracenote/assets/p33807983_b_h8_aa.jpg" />
     <episode-num system="onscreen">S2026E13</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260918040000 +0000" stop="20260918060000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S14E173</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
   </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260918040000 +0000" stop="20260918060000 +0000">
     <title>PFT Live</title>
@@ -428667,7 +428638,7 @@
   </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260918220000 +0000" stop="20260918223000 +0000">
     <title>10/10: NBC Sports Ranks</title>
-    <desc>The ultimate sports countdown for the social media era.</desc>
+    <desc>Revealing the Top 10 highlights, viral moments and unforgettable NBC Sports action every week.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e691fd641900daa26b7ee8076e9b564f/images/gracenote/assets/p34000302_b_h10_ab.jpg" />
     <episode-num system="onscreen">S01E01</episode-num>
   </programme>
@@ -428695,13 +428666,6 @@
     <desc>Paul Pabst and Andrew Perloff challenge each other on the biggest sports topics of the day.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5d0336e00d7e5fa0737eeb2ec0ae2542/images/gracenote/assets/p33807983_b_h8_aa.jpg" />
     <episode-num system="onscreen">S2026E14</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260919040000 +0000" stop="20260919060000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S14E174</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
   </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260919040000 +0000" stop="20260919060000 +0000">
     <title>PFT Live</title>
@@ -428769,7 +428733,7 @@
   </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260919160000 +0000" stop="20260919163000 +0000">
     <title>10/10: NBC Sports Ranks</title>
-    <desc>The ultimate sports countdown for the social media era.</desc>
+    <desc>Revealing the Top 10 highlights, viral moments and unforgettable NBC Sports action every week.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e691fd641900daa26b7ee8076e9b564f/images/gracenote/assets/p34000302_b_h10_ab.jpg" />
     <episode-num system="onscreen">S01E01</episode-num>
   </programme>
@@ -428795,9 +428759,15 @@
   </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260919183000 +0000" stop="20260919190000 +0000">
     <title>10/10: NBC Sports Ranks</title>
-    <desc>The ultimate sports countdown for the social media era.</desc>
+    <desc>Revealing the Top 10 highlights, viral moments and unforgettable NBC Sports action every week.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e691fd641900daa26b7ee8076e9b564f/images/gracenote/assets/p34000302_b_h10_ab.jpg" />
     <episode-num system="onscreen">S01E01</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260919190000 +0000" stop="20260919220000 +0000">
+    <title>Premier League Highlights Factory</title>
+    <desc>Watch soccer's biggest stars, iconic clubs and thrilling goals come to life in Premier League Highlights Factory.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/402a5a2516f85bfcdae74376298ed306/images/gracenote/assets/p33785139_b_h10_ac.jpg" />
+    <episode-num system="onscreen">S01E04</episode-num>
   </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260919190000 +0000" stop="20260919220000 +0000">
     <title>Premier League Highlights Factory</title>
@@ -428812,6 +428782,94 @@
     <episode-num system="onscreen">S03E40</episode-num>
   </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260920020000 +0000" stop="20260920060000 +0000">
+    <title>Supermotocross World Championships</title>
+    <sub-title>Supermotocross World Championships</sub-title>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c2a2f29cb3b25f30861aafd349934fd6/images/gracenote/assets/p26755453_b_h8_ab.jpg" />
+    <episode-num system="onscreen">S03E40</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260920060000 +0000" stop="20260920063000 +0000">
+    <title>Big Ten Football Highlights Factory</title>
+    <sub-title>Big Ten Football Highlights Factory</sub-title>
+    <desc>A weekly, high-energy ride through the most electrifying plays, top teams and star players.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e6edbf10d4b605a48909b99021c12a6b/images/gracenote/assets/p30941540_b_h10_aa.jpg" />
+    <episode-num system="onscreen">S2026E03</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260920063000 +0000" stop="20260920070000 +0000">
+    <title>10/10: NBC Sports Ranks</title>
+    <desc>Revealing the Top 10 highlights, viral moments and unforgettable NBC Sports action every week.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e691fd641900daa26b7ee8076e9b564f/images/gracenote/assets/p34000302_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S01E01</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260920070000 +0000" stop="20260920073000 +0000">
+    <title>FNIA Overtime</title>
+    <desc>Maria Taylor, Mike Tomlin, Devin McCourty, Jason Garrett and Mike Florio recap the NFL's storylines.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bbe829a5faf091980a3a4468bc262cc7/images/gracenote/assets/p34024473_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S01E01</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260920073000 +0000" stop="20260920080000 +0000">
+    <title>MLB According to CC</title>
+    <desc>CC Sabathia's thoughtful and entertaining insights into the world of Major League Baseball.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/196f40e6a4d685e540e0af17cb630061/images/gracenote/assets/p32854143_b_h8_ab.jpg" />
+    <episode-num system="onscreen">S01E23</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260920080000 +0000" stop="20260920090000 +0000">
+    <title>National Heads-Up Poker Championship</title>
+    <sub-title>National Heads-Up Poker Championship</sub-title>
+    <desc>Round of 32 action from the Hearts and Diamonds brackets featuring poker's biggest names.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/747c33ca70ba51328fdeff200766309a/images/gracenote/assets/p12281368_b_h8_ab.jpg" />
+    <episode-num system="onscreen">S2026E26</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260920090000 +0000" stop="20260920100000 +0000">
+    <title>National Heads-Up Poker Championship</title>
+    <sub-title>National Heads-Up Poker Championship</sub-title>
+    <desc>Round of 16 action featuring poker's biggest names. Winners advance to the Quarterfinals.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/747c33ca70ba51328fdeff200766309a/images/gracenote/assets/p12281368_b_h8_ab.jpg" />
+    <episode-num system="onscreen">S2026E27</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260920100000 +0000" stop="20260920103000 +0000">
+    <title>10/10: NBC Sports Ranks</title>
+    <desc>Revealing the Top 10 highlights, viral moments and unforgettable NBC Sports action every week.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e691fd641900daa26b7ee8076e9b564f/images/gracenote/assets/p34000302_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S01E01</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260920103000 +0000" stop="20260920110000 +0000">
+    <title>FNIA Overtime</title>
+    <desc>Maria Taylor, Mike Tomlin, Devin McCourty, Jason Garrett and Mike Florio recap the NFL's storylines.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bbe829a5faf091980a3a4468bc262cc7/images/gracenote/assets/p34024473_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S01E01</episode-num>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260920110000 +0000" stop="20260920130000 +0000">
+    <title>PFT Live</title>
+    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
+    <episode-num system="onscreen">S14E174</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260920130000 +0000" stop="20260920140000 +0000">
+    <title>Chris Simms Unbuttoned</title>
+    <desc>An unfiltered look at the NFL, with player access and stories from a life in and around football.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/82a87e1327c753a189e12632b49258eb/images/gracenote/assets/p18991697_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S07E70</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260920140000 +0000" stop="20260920160000 +0000">
+    <title>PFT Live</title>
+    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
+    <episode-num system="onscreen">S14E174</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260920160000 +0000" stop="20260920170000 +0000">
+    <title>Chris Simms Unbuttoned</title>
+    <desc>An unfiltered look at the NFL, with player access and stories from a life in and around football.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/82a87e1327c753a189e12632b49258eb/images/gracenote/assets/p18991697_b_h10_ab.jpg" />
+    <episode-num system="onscreen">S07E70</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260920170000 +0000" stop="20260920210000 +0000">
     <title>Supermotocross World Championships</title>
     <sub-title>Supermotocross World Championships</sub-title>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c2a2f29cb3b25f30861aafd349934fd6/images/gracenote/assets/p26755453_b_h8_ab.jpg" />
