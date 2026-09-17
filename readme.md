@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-17 18:24 UTC
+## Base Log @ 2026-09-17 22:58 UTC
 
-### ✅ Working Streams: 52<br>❌ Dead Streams: 98
+### ✅ Working Streams: 50<br>❌ Dead Streams: 100
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -19,6 +19,7 @@
 | Comedy Central | HTTP Error (404) | `http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8` |
 | Comedy TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts` |
 | Cozi TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2604.ts` |
+| DAZN | HTTP Error (403) | `https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8` |
 | Discovery Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8` |
 | Discovery Family Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2598.ts` |
 | Discovery Life | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2597.ts` |
@@ -101,6 +102,7 @@
 | The Weather Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/42308.ts` |
 | USA Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3767.ts` |
 | Willow Cricket | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
+| beIN Sports 1 | HTTP Error (403) | `https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8` |
 | getTV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30928.ts` |
 ---
 #### Base Channels URL
