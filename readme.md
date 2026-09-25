@@ -1,4 +1,4 @@
-## Base Log @ 2026-09-25 14:02 UTC
+## Base Log @ 2026-09-25 18:48 UTC
 
 ### ✅ Working Streams: 52<br>❌ Dead Streams: 98
 
@@ -7,7 +7,7 @@
 | ABC | HTTP Timeout (408) | `http://stream.cammonitorplus.net/1809/index.m3u8` |
 | Altitude Sports | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts` |
 | Aspire | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21630.ts` |
-| BBC One | HTTP Timeout (408) | `http://193.239.186.231/BBC1/index.m3u8` |
+| BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
 | BET | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.ts` |
 | Bravo TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2655.ts` |
 | C-SPAN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/92792.ts` |
