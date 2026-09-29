@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-29 00:29 UTC
+## Base Log @ 2026-09-29 14:57 UTC
 
-### ✅ Working Streams: 52<br>❌ Dead Streams: 98
+### ✅ Working Streams: 51<br>❌ Dead Streams: 99
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -54,6 +54,7 @@
 | Investigation Discovery | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/88083.ts` |
 | Lifetime Movie Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_LMN/index.m3u8` |
 | MLB Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
+| MSNBC | HTTP Error (404) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
 | Marquee Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts` |
 | MotorTrend TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3747.ts` |
 | NBC Sports Bay Area | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts` |
