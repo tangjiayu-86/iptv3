@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-30 15:05 UTC
+## Base Log @ 2026-10-01 00:02 UTC
 
-### ✅ Working Streams: 50<br>❌ Dead Streams: 100
+### ✅ Working Streams: 51<br>❌ Dead Streams: 99
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -60,7 +60,6 @@
 | NBC Sports Bay Area | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts` |
 | NBC Sports Boston | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2435.ts` |
 | NBC Sports California | HTTP Timeout (408) | `http://stream.cammonitorplus.net/1795/index.m3u8` |
-| NBC Sports NOW | HTTP Timeout (408) | `https://jmp2.uk/stvp-USBD420002446` |
 | NBC Sports Philadelphia | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts` |
 | NBC | HTTP Timeout (408) | `http://stream.cammonitorplus.net/1812/index.m3u8` |
 | NESN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/149310.ts` |
@@ -102,7 +101,7 @@
 | Telemundo | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts` |
 | The Weather Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/42308.ts` |
 | USA Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3767.ts` |
-| Willow Cricket | HTTP Timeout (408) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
+| Willow Cricket | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
 | getTV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30928.ts` |
 ---
 #### Base Channels URL
