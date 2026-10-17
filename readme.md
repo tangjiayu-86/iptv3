@@ -1,6 +1,6 @@
-## Base Log @ 2026-10-17 17:25 UTC
+## Base Log @ 2026-10-17 22:30 UTC
 
-### ✅ Working Streams: 44<br>❌ Dead Streams: 106
+### ✅ Working Streams: 43<br>❌ Dead Streams: 107
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -58,6 +58,7 @@
 | ITV1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts` |
 | Investigation Discovery | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/88083.ts` |
 | Lifetime Movie Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_LMN/index.m3u8` |
+| Lifetime | HTTP Error (404) | `http://41.205.93.154/LIFETIME/index.m3u8` |
 | MLB Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
 | MSG | HTTP Error (404) | `http://23.237.104.106:8080/USA_MSG/index.m3u8` |
 | MSNBC | HTTP Error (404) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
