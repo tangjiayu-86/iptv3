@@ -1,4 +1,4 @@
-## Base Log @ 2026-10-23 23:17 UTC
+## Base Log @ 2026-10-24 12:50 UTC
 
 ### ✅ Working Streams: 44<br>❌ Dead Streams: 106
 
@@ -30,13 +30,13 @@
 | Disney XD | HTTP Error (404) | `http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8` |
 | ESPN News | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts` |
 | ESPN U | HTTP Error (404) | `http://23.237.104.106:8080/USA_ESPNU/index.m3u8` |
-| ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
+| ESPN | HTTP Timeout (408) | `http://41.205.93.154/ESPN/index.m3u8` |
 | ESPN2 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts` |
 | FX Movie Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts` |
 | FX | HTTP Error (404) | `http://23.237.104.106:8080/USA_FX/index.m3u8` |
 | FXX | HTTP Error (404) | `http://23.237.104.106:8080/USA_FXX/index.m3u8` |
 | FYI TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30924.ts` |
-| Fox Business | HTTP Error (404) | `http://41.205.93.154/FOXBUSINESS/index.m3u8` |
+| Fox Business | HTTP Timeout (408) | `http://41.205.93.154/FOXBUSINESS/index.m3u8` |
 | Fox News | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2543.ts` |
 | Fox Sports 1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts` |
 | Fox Sports 2 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts` |
@@ -58,10 +58,10 @@
 | ITV1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts` |
 | Investigation Discovery | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/88083.ts` |
 | Lifetime Movie Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_LMN/index.m3u8` |
-| Lifetime | HTTP Error (404) | `http://41.205.93.154/LIFETIME/index.m3u8` |
+| Lifetime | HTTP Timeout (408) | `http://41.205.93.154/LIFETIME/index.m3u8` |
 | MLB Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
 | MSG | HTTP Error (404) | `http://23.237.104.106:8080/USA_MSG/index.m3u8` |
-| MSNBC | HTTP Error (404) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
+| MSNBC | HTTP Timeout (408) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
 | Marquee Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts` |
 | MotorTrend TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3747.ts` |
 | NBC Sports Bay Area | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts` |
