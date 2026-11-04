@@ -1,10 +1,13 @@
-## Base Log @ 2026-11-03 16:25 UTC
+## Base Log @ 2026-11-04 00:45 UTC
 
-### ✅ Working Streams: 43<br>❌ Dead Streams: 107
+### ✅ Working Streams: 40<br>❌ Dead Streams: 110
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| A&E TV | HTTP Timeout (408) | `http://23.239.31.26:8989/aande/index.m3u8` |
 | ABC | HTTP Timeout (408) | `http://stream.cammonitorplus.net/1809/index.m3u8` |
+| AMC | HTTP Timeout (408) | `http://23.239.31.26:8989/amc/index.m3u8` |
+| AXS TV | HTTP Timeout (408) | `http://23.239.31.26:8989/axstv/index.m3u8` |
 | Altitude Sports | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts` |
 | Aspire | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21630.ts` |
 | BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
