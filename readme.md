@@ -1,6 +1,6 @@
-## Base Log @ 2026-11-12 01:58 UTC
+## Base Log @ 2026-11-12 16:57 UTC
 
-### ✅ Working Streams: 39<br>❌ Dead Streams: 111
+### ✅ Working Streams: 40<br>❌ Dead Streams: 110
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -114,7 +114,6 @@
 | Willow Cricket | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
 | beIN Sports 1 | HTTP Error (403) | `https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8` |
 | getTV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30928.ts` |
-| truTV | HTTP Timeout (408) | `https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8` |
 ---
 #### Base Channels URL
 ```
