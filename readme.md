@@ -1,6 +1,6 @@
-## Base Log @ 2026-11-19 01:56 UTC
+## Base Log @ 2026-11-19 17:32 UTC
 
-### ✅ Working Streams: 39<br>❌ Dead Streams: 111
+### ✅ Working Streams: 27<br>❌ Dead Streams: 123
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -9,21 +9,26 @@
 | AMC | HTTP Timeout (408) | `http://23.239.31.26:8989/amc/index.m3u8` |
 | AXS TV | HTTP Timeout (408) | `http://23.239.31.26:8989/axstv/index.m3u8` |
 | Altitude Sports | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts` |
+| Animal Planet | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8` |
 | Aspire | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21630.ts` |
+| BBC America | HTTP Error (404) | `http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8` |
 | BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
 | BET | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.ts` |
-| Big Ten Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_BTN/index.m3u8` |
+| Big Ten Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_BTN/index.m3u8` |
+| Boomerang | HTTP Error (404) | `http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8` |
 | Bravo TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2655.ts` |
 | C-SPAN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/92792.ts` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | CBS Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts` |
 | CBS | HTTP Timeout (408) | `http://stream.cammonitorplus.net/1810/index.m3u8` |
+| CMT | HTTP Error (404) | `http://23.237.104.106:8080/USA_CMT/index.m3u8` |
 | CNBC | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3624.ts` |
 | CW | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts` |
 | Cartoon Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8` |
 | Cinemax | HTTP Error (404) | `http://23.237.104.106:8080/USA_CINEMAX/index.m3u8` |
 | Comedy Central | HTTP Error (404) | `http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8` |
 | Comedy TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts` |
+| Cooking Channel | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_COOKING/index.m3u8` |
 | Cozi TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2604.ts` |
 | DAZN | HTTP Error (403) | `https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8` |
 | Discovery Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8` |
@@ -40,6 +45,7 @@
 | FX | HTTP Error (404) | `http://23.237.104.106:8080/USA_FX/index.m3u8` |
 | FXX | HTTP Error (404) | `http://23.237.104.106:8080/USA_FXX/index.m3u8` |
 | FYI TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30924.ts` |
+| Food Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8` |
 | Fox Business | HTTP Error (404) | `http://41.205.93.154/FOXBUSINESS/index.m3u8` |
 | Fox News | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2543.ts` |
 | Fox Sports 1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts` |
@@ -66,6 +72,7 @@
 | MLB Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
 | MSG | HTTP Error (404) | `http://23.237.104.106:8080/USA_MSG/index.m3u8` |
 | MSNBC | HTTP Error (404) | `http://41.205.93.154:80/MSNBC/index.m3u8` |
+| MTV | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_MTV/index.m3u8` |
 | Marquee Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts` |
 | MotorTrend TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3747.ts` |
 | NBC Sports Bay Area | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts` |
@@ -82,10 +89,12 @@
 | Nicktoons | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3674.ts` |
 | Ovation | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/31180.ts` |
 | Oxygen | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3756.ts` |
+| Paramount Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8` |
 | Pop TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3863.ts` |
 | Premier Sports 1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89089.ts` |
 | Premier Sports 2 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89090.ts` |
 | Reelz Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_REELZ/index.m3u8` |
+| SEC Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8` |
 | STV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2168.ts` |
 | Showtime Extreme | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts` |
 | Showtime | HTTP Error (404) | `http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8` |
@@ -104,6 +113,7 @@
 | Sportsnet One | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3071.ts` |
 | Starz Encore Classic | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts` |
 | Starz | HTTP Error (404) | `http://23.237.104.106:8080/USA_STARZ/index.m3u8` |
+| Syfy | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_SYFY/index.m3u8` |
 | TLC | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2594.ts` |
 | TSN1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts` |
 | TSN2 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts` |
@@ -112,7 +122,9 @@
 | Telemundo | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts` |
 | The Weather Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/42308.ts` |
 | USA Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3767.ts` |
+| Vice TV | HTTP Error (404) | `http://23.237.104.106:8080/USA_VICETV/index.m3u8` |
 | Willow Cricket | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
+| YES Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8` |
 | beIN Sports 1 | HTTP Error (403) | `https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8` |
 | getTV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30928.ts` |
 ---
