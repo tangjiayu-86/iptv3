@@ -1,6 +1,6 @@
-## Base Log @ 2026-11-18 17:26 UTC
+## Base Log @ 2026-11-19 01:56 UTC
 
-### ✅ Working Streams: 40<br>❌ Dead Streams: 110
+### ✅ Working Streams: 39<br>❌ Dead Streams: 111
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -12,6 +12,7 @@
 | Aspire | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21630.ts` |
 | BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
 | BET | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.ts` |
+| Big Ten Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_BTN/index.m3u8` |
 | Bravo TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2655.ts` |
 | C-SPAN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/92792.ts` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
